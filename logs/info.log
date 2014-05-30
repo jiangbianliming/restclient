@@ -1,0 +1,85 @@
+2014-05-28 09:20:15  [ main:348 ] - [ ERROR ]  .No message body writer has been found for class : class pku.edu.cn.monitor.restclient.MetadataNode, ContentType : application/json.
+2014-05-28 09:20:15  [ main:353 ] - [ WARN ]  Interceptor for {http://127.0.0.1:8080}WebClient has thrown exception, unwinding now
+org.apache.cxf.interceptor.Fault: .No message body writer has been found for class : class pku.edu.cn.monitor.restclient.MetadataNode, ContentType : application/json.
+	at org.apache.cxf.jaxrs.client.WebClient$BodyWriter.handleMessage(WebClient.java:939)
+	at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:263)
+	at org.apache.cxf.jaxrs.client.WebClient.doChainedInvocation(WebClient.java:840)
+	at org.apache.cxf.jaxrs.client.WebClient.doInvoke(WebClient.java:788)
+	at org.apache.cxf.jaxrs.client.WebClient.doInvoke(WebClient.java:749)
+	at org.apache.cxf.jaxrs.client.WebClient.invoke(WebClient.java:283)
+	at org.apache.cxf.jaxrs.client.WebClient.post(WebClient.java:292)
+	at pku.edu.cn.monitor.restclient.Client.restPost(Client.java:19)
+	at pku.edu.cn.monitor.restclient.Client.main(Client.java:30)
+Caused by: org.apache.cxf.jaxrs.client.ClientWebApplicationException: .No message body writer has been found for class : class pku.edu.cn.monitor.restclient.MetadataNode, ContentType : application/json.
+	at org.apache.cxf.jaxrs.client.AbstractClient.reportMessageHandlerProblem(AbstractClient.java:649)
+	at org.apache.cxf.jaxrs.client.AbstractClient.writeBody(AbstractClient.java:402)
+	at org.apache.cxf.jaxrs.client.WebClient$BodyWriter.handleMessage(WebClient.java:931)
+	... 8 more
+2014-05-28 09:27:51  [ main:339 ] - [ ERROR ]  .No message body writer has been found for class : class pku.edu.cn.monitor.restclient.MetadataNode, ContentType : application/json.
+2014-05-28 09:27:51  [ main:341 ] - [ WARN ]  Interceptor for {http://127.0.0.1:8080}WebClient has thrown exception, unwinding now
+org.apache.cxf.interceptor.Fault: .No message body writer has been found for class : class pku.edu.cn.monitor.restclient.MetadataNode, ContentType : application/json.
+	at org.apache.cxf.jaxrs.client.WebClient$BodyWriter.handleMessage(WebClient.java:939)
+	at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:263)
+	at org.apache.cxf.jaxrs.client.WebClient.doChainedInvocation(WebClient.java:840)
+	at org.apache.cxf.jaxrs.client.WebClient.doInvoke(WebClient.java:788)
+	at org.apache.cxf.jaxrs.client.WebClient.doInvoke(WebClient.java:749)
+	at org.apache.cxf.jaxrs.client.WebClient.invoke(WebClient.java:283)
+	at org.apache.cxf.jaxrs.client.WebClient.post(WebClient.java:292)
+	at pku.edu.cn.monitor.restclient.Client.restPost(Client.java:19)
+	at pku.edu.cn.monitor.restclient.Client.main(Client.java:30)
+Caused by: org.apache.cxf.jaxrs.client.ClientWebApplicationException: .No message body writer has been found for class : class pku.edu.cn.monitor.restclient.MetadataNode, ContentType : application/json.
+	at org.apache.cxf.jaxrs.client.AbstractClient.reportMessageHandlerProblem(AbstractClient.java:649)
+	at org.apache.cxf.jaxrs.client.AbstractClient.writeBody(AbstractClient.java:402)
+	at org.apache.cxf.jaxrs.client.WebClient$BodyWriter.handleMessage(WebClient.java:931)
+	... 8 more
+2014-05-28 09:47:47  [ main:342 ] - [ ERROR ]  .No message body writer has been found for class : class pku.edu.cn.monitor.restclient.MetadataNode, ContentType : application/json.
+2014-05-28 09:47:47  [ main:344 ] - [ WARN ]  Interceptor for {http://127.0.0.1:8080}WebClient has thrown exception, unwinding now
+org.apache.cxf.interceptor.Fault: .No message body writer has been found for class : class pku.edu.cn.monitor.restclient.MetadataNode, ContentType : application/json.
+	at org.apache.cxf.jaxrs.client.WebClient$BodyWriter.handleMessage(WebClient.java:939)
+	at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:263)
+	at org.apache.cxf.jaxrs.client.WebClient.doChainedInvocation(WebClient.java:840)
+	at org.apache.cxf.jaxrs.client.WebClient.doInvoke(WebClient.java:788)
+	at org.apache.cxf.jaxrs.client.WebClient.doInvoke(WebClient.java:749)
+	at org.apache.cxf.jaxrs.client.WebClient.invoke(WebClient.java:283)
+	at org.apache.cxf.jaxrs.client.WebClient.post(WebClient.java:292)
+	at pku.edu.cn.monitor.restclient.Client.restPost(Client.java:19)
+	at pku.edu.cn.monitor.restclient.Client.main(Client.java:30)
+Caused by: org.apache.cxf.jaxrs.client.ClientWebApplicationException: .No message body writer has been found for class : class pku.edu.cn.monitor.restclient.MetadataNode, ContentType : application/json.
+	at org.apache.cxf.jaxrs.client.AbstractClient.reportMessageHandlerProblem(AbstractClient.java:649)
+	at org.apache.cxf.jaxrs.client.AbstractClient.writeBody(AbstractClient.java:402)
+	at org.apache.cxf.jaxrs.client.WebClient$BodyWriter.handleMessage(WebClient.java:931)
+	... 8 more
+2014-05-28 09:48:55  [ main:347 ] - [ ERROR ]  .No message body writer has been found for class : class pku.edu.cn.monitor.restclient.MetadataNode, ContentType : application/json.
+2014-05-28 09:48:55  [ main:349 ] - [ WARN ]  Interceptor for {http://127.0.0.1:8080}WebClient has thrown exception, unwinding now
+org.apache.cxf.interceptor.Fault: .No message body writer has been found for class : class pku.edu.cn.monitor.restclient.MetadataNode, ContentType : application/json.
+	at org.apache.cxf.jaxrs.client.WebClient$BodyWriter.handleMessage(WebClient.java:939)
+	at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:263)
+	at org.apache.cxf.jaxrs.client.WebClient.doChainedInvocation(WebClient.java:840)
+	at org.apache.cxf.jaxrs.client.WebClient.doInvoke(WebClient.java:788)
+	at org.apache.cxf.jaxrs.client.WebClient.doInvoke(WebClient.java:749)
+	at org.apache.cxf.jaxrs.client.WebClient.invoke(WebClient.java:283)
+	at org.apache.cxf.jaxrs.client.WebClient.post(WebClient.java:292)
+	at pku.edu.cn.monitor.restclient.Client.restPost(Client.java:19)
+	at pku.edu.cn.monitor.restclient.Client.main(Client.java:30)
+Caused by: org.apache.cxf.jaxrs.client.ClientWebApplicationException: .No message body writer has been found for class : class pku.edu.cn.monitor.restclient.MetadataNode, ContentType : application/json.
+	at org.apache.cxf.jaxrs.client.AbstractClient.reportMessageHandlerProblem(AbstractClient.java:649)
+	at org.apache.cxf.jaxrs.client.AbstractClient.writeBody(AbstractClient.java:402)
+	at org.apache.cxf.jaxrs.client.WebClient$BodyWriter.handleMessage(WebClient.java:931)
+	... 8 more
+2014-05-28 10:17:20  [ main:300 ] - [ ERROR ]  .No message body writer has been found for class : class pku.edu.cn.monitor.restclient.MetadataNode, ContentType : application/json.
+2014-05-28 10:17:20  [ main:304 ] - [ WARN ]  Interceptor for {http://127.0.0.1:8080}WebClient has thrown exception, unwinding now
+org.apache.cxf.interceptor.Fault: .No message body writer has been found for class : class pku.edu.cn.monitor.restclient.MetadataNode, ContentType : application/json.
+	at org.apache.cxf.jaxrs.client.WebClient$BodyWriter.handleMessage(WebClient.java:893)
+	at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:262)
+	at org.apache.cxf.jaxrs.client.WebClient.doChainedInvocation(WebClient.java:795)
+	at org.apache.cxf.jaxrs.client.WebClient.doInvoke(WebClient.java:743)
+	at org.apache.cxf.jaxrs.client.WebClient.doInvoke(WebClient.java:717)
+	at org.apache.cxf.jaxrs.client.WebClient.invoke(WebClient.java:262)
+	at org.apache.cxf.jaxrs.client.WebClient.post(WebClient.java:271)
+	at pku.edu.cn.monitor.restclient.Client.restPost(Client.java:22)
+	at pku.edu.cn.monitor.restclient.Client.main(Client.java:33)
+Caused by: org.apache.cxf.jaxrs.client.ClientWebApplicationException: .No message body writer has been found for class : class pku.edu.cn.monitor.restclient.MetadataNode, ContentType : application/json.
+	at org.apache.cxf.jaxrs.client.AbstractClient.reportMessageHandlerProblem(AbstractClient.java:630)
+	at org.apache.cxf.jaxrs.client.AbstractClient.writeBody(AbstractClient.java:400)
+	at org.apache.cxf.jaxrs.client.WebClient$BodyWriter.handleMessage(WebClient.java:885)
+	... 8 more

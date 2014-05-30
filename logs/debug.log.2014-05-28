@@ -1,0 +1,1105 @@
+2014-05-28 09:19:43  [ main:0 ] - [ DEBUG ]  Using org.apache.cxf.common.logging.Log4jLogger for logging.
+2014-05-28 09:19:43  [ main:185 ] - [ DEBUG ]  Problem with creating the default provider org.apache.cxf.jaxrs.provider.json.JSONProvider: org.apache.cxf.jaxrs.provider.json.JSONProvider
+2014-05-28 09:19:43  [ main:215 ] - [ DEBUG ]  Problem with creating the default provider org.apache.cxf.jaxrs.provider.json.JSONProvider: org.apache.cxf.jaxrs.provider.json.JSONProvider
+2014-05-28 09:19:43  [ main:281 ] - [ DEBUG ]  Setting default value: false
+2014-05-28 09:19:43  [ main:282 ] - [ DEBUG ]  Converting 'Boolean' value 'false' to type 'Boolean'
+2014-05-28 09:19:43  [ main:282 ] - [ DEBUG ]      No conversion required, value is already a Boolean
+2014-05-28 09:19:43  [ main:284 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:19:43  [ main:284 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Byte'
+2014-05-28 09:19:43  [ main:285 ] - [ DEBUG ]      Converted to Byte value '0'
+2014-05-28 09:19:43  [ main:285 ] - [ DEBUG ]  Setting default value:  
+2014-05-28 09:19:43  [ main:286 ] - [ DEBUG ]  Converting 'Character' value ' ' to type 'Character'
+2014-05-28 09:19:43  [ main:286 ] - [ DEBUG ]      No conversion required, value is already a Character
+2014-05-28 09:19:43  [ main:286 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:19:43  [ main:286 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Double'
+2014-05-28 09:19:43  [ main:286 ] - [ DEBUG ]      Converted to Double value '0.0'
+2014-05-28 09:19:43  [ main:287 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:19:43  [ main:288 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Float'
+2014-05-28 09:19:43  [ main:288 ] - [ DEBUG ]      Converted to Float value '0.0'
+2014-05-28 09:19:43  [ main:289 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:19:43  [ main:289 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Integer'
+2014-05-28 09:19:43  [ main:289 ] - [ DEBUG ]      No conversion required, value is already a Integer
+2014-05-28 09:19:43  [ main:290 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:19:43  [ main:290 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Long'
+2014-05-28 09:19:43  [ main:290 ] - [ DEBUG ]      Converted to Long value '0'
+2014-05-28 09:19:43  [ main:291 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:19:43  [ main:291 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Short'
+2014-05-28 09:19:43  [ main:291 ] - [ DEBUG ]      Converted to Short value '0'
+2014-05-28 09:19:43  [ main:292 ] - [ DEBUG ]  Setting default value: 0.0
+2014-05-28 09:19:43  [ main:292 ] - [ DEBUG ]  Converting 'BigDecimal' value '0.0' to type 'BigDecimal'
+2014-05-28 09:19:43  [ main:292 ] - [ DEBUG ]      No conversion required, value is already a BigDecimal
+2014-05-28 09:19:43  [ main:292 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:19:43  [ main:292 ] - [ DEBUG ]  Converting 'BigInteger' value '0' to type 'BigInteger'
+2014-05-28 09:19:43  [ main:293 ] - [ DEBUG ]      No conversion required, value is already a BigInteger
+2014-05-28 09:19:43  [ main:293 ] - [ DEBUG ]  Setting default value: false
+2014-05-28 09:19:43  [ main:293 ] - [ DEBUG ]  Converting 'Boolean' value 'false' to type 'Boolean'
+2014-05-28 09:19:43  [ main:293 ] - [ DEBUG ]      No conversion required, value is already a Boolean
+2014-05-28 09:19:43  [ main:293 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:19:43  [ main:293 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Byte'
+2014-05-28 09:19:43  [ main:293 ] - [ DEBUG ]      Converted to Byte value '0'
+2014-05-28 09:19:43  [ main:293 ] - [ DEBUG ]  Setting default value:  
+2014-05-28 09:19:43  [ main:293 ] - [ DEBUG ]  Converting 'Character' value ' ' to type 'Character'
+2014-05-28 09:19:43  [ main:294 ] - [ DEBUG ]      No conversion required, value is already a Character
+2014-05-28 09:19:43  [ main:294 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:19:43  [ main:294 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Double'
+2014-05-28 09:19:43  [ main:294 ] - [ DEBUG ]      Converted to Double value '0.0'
+2014-05-28 09:19:43  [ main:294 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:19:43  [ main:294 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Float'
+2014-05-28 09:19:43  [ main:294 ] - [ DEBUG ]      Converted to Float value '0.0'
+2014-05-28 09:19:43  [ main:294 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:19:43  [ main:295 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Integer'
+2014-05-28 09:19:43  [ main:295 ] - [ DEBUG ]      No conversion required, value is already a Integer
+2014-05-28 09:19:43  [ main:295 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:19:43  [ main:295 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Long'
+2014-05-28 09:19:43  [ main:295 ] - [ DEBUG ]      Converted to Long value '0'
+2014-05-28 09:19:43  [ main:295 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:19:43  [ main:295 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Short'
+2014-05-28 09:19:43  [ main:295 ] - [ DEBUG ]      Converted to Short value '0'
+2014-05-28 09:19:43  [ main:296 ] - [ DEBUG ]  Setting default value: 
+2014-05-28 09:19:43  [ main:296 ] - [ DEBUG ]  Converting 'String' value '' to type 'String'
+2014-05-28 09:19:43  [ main:301 ] - [ DEBUG ]  Setting default value: [Z@13a95192
+2014-05-28 09:19:43  [ main:301 ] - [ DEBUG ]  Converting 'boolean[]' value '[Z@13a95192' to type 'boolean[]'
+2014-05-28 09:19:43  [ main:301 ] - [ DEBUG ]      No conversion required, value is already a boolean[]
+2014-05-28 09:19:43  [ main:301 ] - [ DEBUG ]  Setting default value: [B@512a5253
+2014-05-28 09:19:43  [ main:301 ] - [ DEBUG ]  Converting 'byte[]' value '[B@512a5253' to type 'byte[]'
+2014-05-28 09:19:43  [ main:302 ] - [ DEBUG ]      No conversion required, value is already a byte[]
+2014-05-28 09:19:43  [ main:302 ] - [ DEBUG ]  Setting default value: [C@3182f0c6
+2014-05-28 09:19:43  [ main:302 ] - [ DEBUG ]  Converting 'char[]' value '[C@3182f0c6' to type 'char[]'
+2014-05-28 09:19:43  [ main:302 ] - [ DEBUG ]      No conversion required, value is already a char[]
+2014-05-28 09:19:43  [ main:302 ] - [ DEBUG ]  Setting default value: [D@b8d708f
+2014-05-28 09:19:43  [ main:302 ] - [ DEBUG ]  Converting 'double[]' value '[D@b8d708f' to type 'double[]'
+2014-05-28 09:19:43  [ main:302 ] - [ DEBUG ]      No conversion required, value is already a double[]
+2014-05-28 09:19:43  [ main:303 ] - [ DEBUG ]  Setting default value: [F@72d8c235
+2014-05-28 09:19:43  [ main:303 ] - [ DEBUG ]  Converting 'float[]' value '[F@72d8c235' to type 'float[]'
+2014-05-28 09:19:43  [ main:303 ] - [ DEBUG ]      No conversion required, value is already a float[]
+2014-05-28 09:19:43  [ main:303 ] - [ DEBUG ]  Setting default value: [I@74b6607a
+2014-05-28 09:19:43  [ main:303 ] - [ DEBUG ]  Converting 'int[]' value '[I@74b6607a' to type 'int[]'
+2014-05-28 09:19:43  [ main:303 ] - [ DEBUG ]      No conversion required, value is already a int[]
+2014-05-28 09:19:43  [ main:303 ] - [ DEBUG ]  Setting default value: [J@71782572
+2014-05-28 09:19:43  [ main:303 ] - [ DEBUG ]  Converting 'long[]' value '[J@71782572' to type 'long[]'
+2014-05-28 09:19:43  [ main:303 ] - [ DEBUG ]      No conversion required, value is already a long[]
+2014-05-28 09:19:43  [ main:304 ] - [ DEBUG ]  Setting default value: [S@6e29991
+2014-05-28 09:19:43  [ main:304 ] - [ DEBUG ]  Converting 'short[]' value '[S@6e29991' to type 'short[]'
+2014-05-28 09:19:43  [ main:304 ] - [ DEBUG ]      No conversion required, value is already a short[]
+2014-05-28 09:19:43  [ main:304 ] - [ DEBUG ]  Setting default value: [Ljava.math.BigDecimal;@6d0021f
+2014-05-28 09:19:43  [ main:304 ] - [ DEBUG ]  Converting 'BigDecimal[]' value '[Ljava.math.BigDecimal;@6d0021f' to type 'BigDecimal[]'
+2014-05-28 09:19:43  [ main:304 ] - [ DEBUG ]      No conversion required, value is already a BigDecimal[]
+2014-05-28 09:19:43  [ main:304 ] - [ DEBUG ]  Setting default value: [Ljava.math.BigInteger;@423b44b7
+2014-05-28 09:19:43  [ main:304 ] - [ DEBUG ]  Converting 'BigInteger[]' value '[Ljava.math.BigInteger;@423b44b7' to type 'BigInteger[]'
+2014-05-28 09:19:43  [ main:304 ] - [ DEBUG ]      No conversion required, value is already a BigInteger[]
+2014-05-28 09:19:43  [ main:305 ] - [ DEBUG ]  Setting default value: [Ljava.lang.Boolean;@411c6c59
+2014-05-28 09:19:43  [ main:305 ] - [ DEBUG ]  Converting 'Boolean[]' value '[Ljava.lang.Boolean;@411c6c59' to type 'Boolean[]'
+2014-05-28 09:19:43  [ main:305 ] - [ DEBUG ]      No conversion required, value is already a Boolean[]
+2014-05-28 09:19:43  [ main:305 ] - [ DEBUG ]  Setting default value: [Ljava.lang.Byte;@310d6874
+2014-05-28 09:19:43  [ main:305 ] - [ DEBUG ]  Converting 'Byte[]' value '[Ljava.lang.Byte;@310d6874' to type 'Byte[]'
+2014-05-28 09:19:43  [ main:305 ] - [ DEBUG ]      No conversion required, value is already a Byte[]
+2014-05-28 09:19:43  [ main:305 ] - [ DEBUG ]  Setting default value: [Ljava.lang.Character;@6744b0d4
+2014-05-28 09:19:43  [ main:305 ] - [ DEBUG ]  Converting 'Character[]' value '[Ljava.lang.Character;@6744b0d4' to type 'Character[]'
+2014-05-28 09:19:43  [ main:305 ] - [ DEBUG ]      No conversion required, value is already a Character[]
+2014-05-28 09:19:43  [ main:306 ] - [ DEBUG ]  Setting default value: [Ljava.lang.Double;@4eb56343
+2014-05-28 09:19:43  [ main:306 ] - [ DEBUG ]  Converting 'Double[]' value '[Ljava.lang.Double;@4eb56343' to type 'Double[]'
+2014-05-28 09:19:43  [ main:306 ] - [ DEBUG ]      No conversion required, value is already a Double[]
+2014-05-28 09:19:43  [ main:306 ] - [ DEBUG ]  Setting default value: [Ljava.lang.Float;@6687ec13
+2014-05-28 09:19:43  [ main:306 ] - [ DEBUG ]  Converting 'Float[]' value '[Ljava.lang.Float;@6687ec13' to type 'Float[]'
+2014-05-28 09:19:43  [ main:306 ] - [ DEBUG ]      No conversion required, value is already a Float[]
+2014-05-28 09:19:43  [ main:306 ] - [ DEBUG ]  Setting default value: [Ljava.lang.Integer;@659c07fb
+2014-05-28 09:19:43  [ main:306 ] - [ DEBUG ]  Converting 'Integer[]' value '[Ljava.lang.Integer;@659c07fb' to type 'Integer[]'
+2014-05-28 09:19:43  [ main:306 ] - [ DEBUG ]      No conversion required, value is already a Integer[]
+2014-05-28 09:19:43  [ main:307 ] - [ DEBUG ]  Setting default value: [Ljava.lang.Long;@66d023da
+2014-05-28 09:19:43  [ main:307 ] - [ DEBUG ]  Converting 'Long[]' value '[Ljava.lang.Long;@66d023da' to type 'Long[]'
+2014-05-28 09:19:43  [ main:307 ] - [ DEBUG ]      No conversion required, value is already a Long[]
+2014-05-28 09:19:43  [ main:307 ] - [ DEBUG ]  Setting default value: [Ljava.lang.Short;@6ae1f1f1
+2014-05-28 09:19:43  [ main:307 ] - [ DEBUG ]  Converting 'Short[]' value '[Ljava.lang.Short;@6ae1f1f1' to type 'Short[]'
+2014-05-28 09:19:43  [ main:307 ] - [ DEBUG ]      No conversion required, value is already a Short[]
+2014-05-28 09:19:43  [ main:307 ] - [ DEBUG ]  Setting default value: [Ljava.lang.String;@17d33c09
+2014-05-28 09:19:43  [ main:307 ] - [ DEBUG ]  Converting 'String[]' value '[Ljava.lang.String;@17d33c09' to type 'String[]'
+2014-05-28 09:19:43  [ main:307 ] - [ DEBUG ]      No conversion required, value is already a String[]
+2014-05-28 09:19:43  [ main:308 ] - [ DEBUG ]  Setting default value: [Ljava.lang.Class;@2d0a7f17
+2014-05-28 09:19:43  [ main:308 ] - [ DEBUG ]  Converting 'Class[]' value '[Ljava.lang.Class;@2d0a7f17' to type 'Class[]'
+2014-05-28 09:19:43  [ main:308 ] - [ DEBUG ]      No conversion required, value is already a Class[]
+2014-05-28 09:19:43  [ main:308 ] - [ DEBUG ]  Setting default value: [Ljava.util.Date;@7ad38cd3
+2014-05-28 09:19:43  [ main:308 ] - [ DEBUG ]  Converting 'Date[]' value '[Ljava.util.Date;@7ad38cd3' to type 'Date[]'
+2014-05-28 09:19:43  [ main:308 ] - [ DEBUG ]      No conversion required, value is already a Date[]
+2014-05-28 09:19:43  [ main:308 ] - [ DEBUG ]  Setting default value: [Ljava.util.Calendar;@67940cc9
+2014-05-28 09:19:43  [ main:308 ] - [ DEBUG ]  Converting 'Calendar[]' value '[Ljava.util.Calendar;@67940cc9' to type 'Calendar[]'
+2014-05-28 09:19:43  [ main:308 ] - [ DEBUG ]      No conversion required, value is already a Calendar[]
+2014-05-28 09:19:43  [ main:308 ] - [ DEBUG ]  Setting default value: [Ljava.io.File;@5aeb7009
+2014-05-28 09:19:43  [ main:309 ] - [ DEBUG ]  Converting 'java.io.File[]' value '[Ljava.io.File;@5aeb7009' to type 'java.io.File[]'
+2014-05-28 09:19:43  [ main:309 ] - [ DEBUG ]      No conversion required, value is already a java.io.File[]
+2014-05-28 09:19:43  [ main:309 ] - [ DEBUG ]  Setting default value: [Ljava.sql.Date;@7bfa0f08
+2014-05-28 09:19:43  [ main:309 ] - [ DEBUG ]  Converting 'java.sql.Date[]' value '[Ljava.sql.Date;@7bfa0f08' to type 'java.sql.Date[]'
+2014-05-28 09:19:43  [ main:309 ] - [ DEBUG ]      No conversion required, value is already a java.sql.Date[]
+2014-05-28 09:19:43  [ main:309 ] - [ DEBUG ]  Setting default value: [Ljava.sql.Time;@35758ffa
+2014-05-28 09:19:43  [ main:309 ] - [ DEBUG ]  Converting 'java.sql.Time[]' value '[Ljava.sql.Time;@35758ffa' to type 'java.sql.Time[]'
+2014-05-28 09:19:43  [ main:309 ] - [ DEBUG ]      No conversion required, value is already a java.sql.Time[]
+2014-05-28 09:19:43  [ main:309 ] - [ DEBUG ]  Setting default value: [Ljava.sql.Timestamp;@217de52a
+2014-05-28 09:19:43  [ main:310 ] - [ DEBUG ]  Converting 'java.sql.Timestamp[]' value '[Ljava.sql.Timestamp;@217de52a' to type 'java.sql.Timestamp[]'
+2014-05-28 09:19:43  [ main:310 ] - [ DEBUG ]      No conversion required, value is already a java.sql.Timestamp[]
+2014-05-28 09:19:43  [ main:310 ] - [ DEBUG ]  Setting default value: [Ljava.net.URL;@42f40b16
+2014-05-28 09:19:43  [ main:310 ] - [ DEBUG ]  Converting 'java.net.URL[]' value '[Ljava.net.URL;@42f40b16' to type 'java.net.URL[]'
+2014-05-28 09:19:43  [ main:310 ] - [ DEBUG ]      No conversion required, value is already a java.net.URL[]
+2014-05-28 09:19:43  [ main:331 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@394003fc to phase prepare-send
+2014-05-28 09:19:43  [ main:331 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@394003fc to phase prepare-send
+2014-05-28 09:19:43  [ main:351 ] - [ DEBUG ]  Conduit '{http://127.0.0.1:8080}WebClient.http-conduit' has been (re)configured for plain http.
+2014-05-28 09:19:43  [ main:352 ] - [ DEBUG ]  No Trust Decider configured for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'
+2014-05-28 09:19:43  [ main:352 ] - [ DEBUG ]  No Auth Supplier configured for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'
+2014-05-28 09:19:43  [ main:352 ] - [ DEBUG ]  Conduit '{http://127.0.0.1:8080}WebClient.http-conduit' has been configured for plain http.
+2014-05-28 09:19:43  [ main:352 ] - [ DEBUG ]  registering incoming observer: org.apache.cxf.jaxrs.client.ClientMessageObserver@266c4c10
+2014-05-28 09:19:43  [ main:353 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.jaxrs.client.WebClient$BodyWriter@5a44a5e1 to phase write
+2014-05-28 09:19:43  [ main:353 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@ded0b93 was created. Current flow:
+  prepare-send [MessageSenderInterceptor]
+  write [BodyWriter]
+
+2014-05-28 09:19:43  [ main:354 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@394003fc
+2014-05-28 09:19:43  [ main:361 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor$MessageSenderEndingInterceptor@45890909 to phase prepare-send-ending
+2014-05-28 09:19:43  [ main:361 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@ded0b93 was modified. Current flow:
+  prepare-send [MessageSenderInterceptor]
+  write [BodyWriter]
+  prepare-send-ending [MessageSenderEndingInterceptor]
+
+2014-05-28 09:19:43  [ main:361 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.jaxrs.client.WebClient$BodyWriter@5a44a5e1
+2014-05-28 09:19:43  [ main:362 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.interceptor.MessageSenderInterceptor$MessageSenderEndingInterceptor@45890909
+2014-05-28 09:19:43  [ main:364 ] - [ DEBUG ]  Accept: */*
+2014-05-28 09:19:43  [ main:364 ] - [ DEBUG ]  Content-Type: application/json
+2014-05-28 09:19:43  [ main:366 ] - [ DEBUG ]  No Trust Decider for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'. An afirmative Trust Decision is assumed.
+2014-05-28 09:19:43  [ main:373 ] - [ DEBUG ]  Sending POST Message with Headers to http://127.0.0.1:8080/monitor/api/v1/network/addnode Conduit :{http://127.0.0.1:8080}WebClient.http-conduit
+
+2014-05-28 09:19:43  [ main:507 ] - [ DEBUG ]  Response Code: 400 Conduit: {http://127.0.0.1:8080}WebClient.http-conduit
+2014-05-28 09:19:43  [ main:507 ] - [ DEBUG ]  Content length: 177
+2014-05-28 09:19:43  [ main:508 ] - [ DEBUG ]  Header fields: 
+    null: [HTTP/1.1 400 Bad Request]
+    Date: [Wed, 28 May 2014 01:19:43 GMT]
+    Content-Length: [177]
+    Connection: [close]
+    Content-Type: [text/plain]
+    Server: [Apache-Coyote/1.1]
+
+2014-05-28 09:19:43  [ main:509 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@1ac3e29 was created. Current flow:
+
+2014-05-28 09:20:14  [ main:0 ] - [ DEBUG ]  Using org.apache.cxf.common.logging.Log4jLogger for logging.
+2014-05-28 09:20:15  [ main:173 ] - [ DEBUG ]  Problem with creating the default provider org.apache.cxf.jaxrs.provider.json.JSONProvider: org.apache.cxf.jaxrs.provider.json.JSONProvider
+2014-05-28 09:20:15  [ main:203 ] - [ DEBUG ]  Problem with creating the default provider org.apache.cxf.jaxrs.provider.json.JSONProvider: org.apache.cxf.jaxrs.provider.json.JSONProvider
+2014-05-28 09:20:15  [ main:269 ] - [ DEBUG ]  Setting default value: false
+2014-05-28 09:20:15  [ main:269 ] - [ DEBUG ]  Converting 'Boolean' value 'false' to type 'Boolean'
+2014-05-28 09:20:15  [ main:269 ] - [ DEBUG ]      No conversion required, value is already a Boolean
+2014-05-28 09:20:15  [ main:271 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:20:15  [ main:271 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Byte'
+2014-05-28 09:20:15  [ main:271 ] - [ DEBUG ]      Converted to Byte value '0'
+2014-05-28 09:20:15  [ main:272 ] - [ DEBUG ]  Setting default value:  
+2014-05-28 09:20:15  [ main:272 ] - [ DEBUG ]  Converting 'Character' value ' ' to type 'Character'
+2014-05-28 09:20:15  [ main:272 ] - [ DEBUG ]      No conversion required, value is already a Character
+2014-05-28 09:20:15  [ main:273 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:20:15  [ main:273 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Double'
+2014-05-28 09:20:15  [ main:273 ] - [ DEBUG ]      Converted to Double value '0.0'
+2014-05-28 09:20:15  [ main:273 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:20:15  [ main:275 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Float'
+2014-05-28 09:20:15  [ main:275 ] - [ DEBUG ]      Converted to Float value '0.0'
+2014-05-28 09:20:15  [ main:276 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:20:15  [ main:276 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Integer'
+2014-05-28 09:20:15  [ main:276 ] - [ DEBUG ]      No conversion required, value is already a Integer
+2014-05-28 09:20:15  [ main:276 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:20:15  [ main:276 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Long'
+2014-05-28 09:20:15  [ main:276 ] - [ DEBUG ]      Converted to Long value '0'
+2014-05-28 09:20:15  [ main:277 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:20:15  [ main:277 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Short'
+2014-05-28 09:20:15  [ main:277 ] - [ DEBUG ]      Converted to Short value '0'
+2014-05-28 09:20:15  [ main:278 ] - [ DEBUG ]  Setting default value: 0.0
+2014-05-28 09:20:15  [ main:278 ] - [ DEBUG ]  Converting 'BigDecimal' value '0.0' to type 'BigDecimal'
+2014-05-28 09:20:15  [ main:278 ] - [ DEBUG ]      No conversion required, value is already a BigDecimal
+2014-05-28 09:20:15  [ main:278 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:20:15  [ main:279 ] - [ DEBUG ]  Converting 'BigInteger' value '0' to type 'BigInteger'
+2014-05-28 09:20:15  [ main:279 ] - [ DEBUG ]      No conversion required, value is already a BigInteger
+2014-05-28 09:20:15  [ main:279 ] - [ DEBUG ]  Setting default value: false
+2014-05-28 09:20:15  [ main:279 ] - [ DEBUG ]  Converting 'Boolean' value 'false' to type 'Boolean'
+2014-05-28 09:20:15  [ main:279 ] - [ DEBUG ]      No conversion required, value is already a Boolean
+2014-05-28 09:20:15  [ main:279 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:20:15  [ main:279 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Byte'
+2014-05-28 09:20:15  [ main:280 ] - [ DEBUG ]      Converted to Byte value '0'
+2014-05-28 09:20:15  [ main:280 ] - [ DEBUG ]  Setting default value:  
+2014-05-28 09:20:15  [ main:280 ] - [ DEBUG ]  Converting 'Character' value ' ' to type 'Character'
+2014-05-28 09:20:15  [ main:280 ] - [ DEBUG ]      No conversion required, value is already a Character
+2014-05-28 09:20:15  [ main:280 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:20:15  [ main:280 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Double'
+2014-05-28 09:20:15  [ main:280 ] - [ DEBUG ]      Converted to Double value '0.0'
+2014-05-28 09:20:15  [ main:280 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:20:15  [ main:281 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Float'
+2014-05-28 09:20:15  [ main:281 ] - [ DEBUG ]      Converted to Float value '0.0'
+2014-05-28 09:20:15  [ main:281 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:20:15  [ main:281 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Integer'
+2014-05-28 09:20:15  [ main:281 ] - [ DEBUG ]      No conversion required, value is already a Integer
+2014-05-28 09:20:15  [ main:281 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:20:15  [ main:281 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Long'
+2014-05-28 09:20:15  [ main:281 ] - [ DEBUG ]      Converted to Long value '0'
+2014-05-28 09:20:15  [ main:281 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:20:15  [ main:282 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Short'
+2014-05-28 09:20:15  [ main:282 ] - [ DEBUG ]      Converted to Short value '0'
+2014-05-28 09:20:15  [ main:282 ] - [ DEBUG ]  Setting default value: 
+2014-05-28 09:20:15  [ main:282 ] - [ DEBUG ]  Converting 'String' value '' to type 'String'
+2014-05-28 09:20:15  [ main:287 ] - [ DEBUG ]  Setting default value: [Z@13a95192
+2014-05-28 09:20:15  [ main:287 ] - [ DEBUG ]  Converting 'boolean[]' value '[Z@13a95192' to type 'boolean[]'
+2014-05-28 09:20:15  [ main:287 ] - [ DEBUG ]      No conversion required, value is already a boolean[]
+2014-05-28 09:20:15  [ main:288 ] - [ DEBUG ]  Setting default value: [B@512a5253
+2014-05-28 09:20:15  [ main:288 ] - [ DEBUG ]  Converting 'byte[]' value '[B@512a5253' to type 'byte[]'
+2014-05-28 09:20:15  [ main:288 ] - [ DEBUG ]      No conversion required, value is already a byte[]
+2014-05-28 09:20:15  [ main:288 ] - [ DEBUG ]  Setting default value: [C@3182f0c6
+2014-05-28 09:20:15  [ main:288 ] - [ DEBUG ]  Converting 'char[]' value '[C@3182f0c6' to type 'char[]'
+2014-05-28 09:20:15  [ main:288 ] - [ DEBUG ]      No conversion required, value is already a char[]
+2014-05-28 09:20:15  [ main:288 ] - [ DEBUG ]  Setting default value: [D@b8d708f
+2014-05-28 09:20:15  [ main:289 ] - [ DEBUG ]  Converting 'double[]' value '[D@b8d708f' to type 'double[]'
+2014-05-28 09:20:15  [ main:289 ] - [ DEBUG ]      No conversion required, value is already a double[]
+2014-05-28 09:20:15  [ main:289 ] - [ DEBUG ]  Setting default value: [F@72d8c235
+2014-05-28 09:20:15  [ main:289 ] - [ DEBUG ]  Converting 'float[]' value '[F@72d8c235' to type 'float[]'
+2014-05-28 09:20:15  [ main:289 ] - [ DEBUG ]      No conversion required, value is already a float[]
+2014-05-28 09:20:15  [ main:289 ] - [ DEBUG ]  Setting default value: [I@74b6607a
+2014-05-28 09:20:15  [ main:289 ] - [ DEBUG ]  Converting 'int[]' value '[I@74b6607a' to type 'int[]'
+2014-05-28 09:20:15  [ main:289 ] - [ DEBUG ]      No conversion required, value is already a int[]
+2014-05-28 09:20:15  [ main:290 ] - [ DEBUG ]  Setting default value: [J@71782572
+2014-05-28 09:20:15  [ main:290 ] - [ DEBUG ]  Converting 'long[]' value '[J@71782572' to type 'long[]'
+2014-05-28 09:20:15  [ main:290 ] - [ DEBUG ]      No conversion required, value is already a long[]
+2014-05-28 09:20:15  [ main:290 ] - [ DEBUG ]  Setting default value: [S@6e29991
+2014-05-28 09:20:15  [ main:290 ] - [ DEBUG ]  Converting 'short[]' value '[S@6e29991' to type 'short[]'
+2014-05-28 09:20:15  [ main:290 ] - [ DEBUG ]      No conversion required, value is already a short[]
+2014-05-28 09:20:15  [ main:290 ] - [ DEBUG ]  Setting default value: [Ljava.math.BigDecimal;@6d0021f
+2014-05-28 09:20:15  [ main:290 ] - [ DEBUG ]  Converting 'BigDecimal[]' value '[Ljava.math.BigDecimal;@6d0021f' to type 'BigDecimal[]'
+2014-05-28 09:20:15  [ main:290 ] - [ DEBUG ]      No conversion required, value is already a BigDecimal[]
+2014-05-28 09:20:15  [ main:291 ] - [ DEBUG ]  Setting default value: [Ljava.math.BigInteger;@423b44b7
+2014-05-28 09:20:15  [ main:291 ] - [ DEBUG ]  Converting 'BigInteger[]' value '[Ljava.math.BigInteger;@423b44b7' to type 'BigInteger[]'
+2014-05-28 09:20:15  [ main:291 ] - [ DEBUG ]      No conversion required, value is already a BigInteger[]
+2014-05-28 09:20:15  [ main:291 ] - [ DEBUG ]  Setting default value: [Ljava.lang.Boolean;@411c6c59
+2014-05-28 09:20:15  [ main:291 ] - [ DEBUG ]  Converting 'Boolean[]' value '[Ljava.lang.Boolean;@411c6c59' to type 'Boolean[]'
+2014-05-28 09:20:15  [ main:291 ] - [ DEBUG ]      No conversion required, value is already a Boolean[]
+2014-05-28 09:20:15  [ main:291 ] - [ DEBUG ]  Setting default value: [Ljava.lang.Byte;@310d6874
+2014-05-28 09:20:15  [ main:291 ] - [ DEBUG ]  Converting 'Byte[]' value '[Ljava.lang.Byte;@310d6874' to type 'Byte[]'
+2014-05-28 09:20:15  [ main:291 ] - [ DEBUG ]      No conversion required, value is already a Byte[]
+2014-05-28 09:20:15  [ main:292 ] - [ DEBUG ]  Setting default value: [Ljava.lang.Character;@6744b0d4
+2014-05-28 09:20:15  [ main:292 ] - [ DEBUG ]  Converting 'Character[]' value '[Ljava.lang.Character;@6744b0d4' to type 'Character[]'
+2014-05-28 09:20:15  [ main:292 ] - [ DEBUG ]      No conversion required, value is already a Character[]
+2014-05-28 09:20:15  [ main:292 ] - [ DEBUG ]  Setting default value: [Ljava.lang.Double;@4eb56343
+2014-05-28 09:20:15  [ main:292 ] - [ DEBUG ]  Converting 'Double[]' value '[Ljava.lang.Double;@4eb56343' to type 'Double[]'
+2014-05-28 09:20:15  [ main:292 ] - [ DEBUG ]      No conversion required, value is already a Double[]
+2014-05-28 09:20:15  [ main:292 ] - [ DEBUG ]  Setting default value: [Ljava.lang.Float;@6687ec13
+2014-05-28 09:20:15  [ main:292 ] - [ DEBUG ]  Converting 'Float[]' value '[Ljava.lang.Float;@6687ec13' to type 'Float[]'
+2014-05-28 09:20:15  [ main:292 ] - [ DEBUG ]      No conversion required, value is already a Float[]
+2014-05-28 09:20:15  [ main:293 ] - [ DEBUG ]  Setting default value: [Ljava.lang.Integer;@659c07fb
+2014-05-28 09:20:15  [ main:293 ] - [ DEBUG ]  Converting 'Integer[]' value '[Ljava.lang.Integer;@659c07fb' to type 'Integer[]'
+2014-05-28 09:20:15  [ main:293 ] - [ DEBUG ]      No conversion required, value is already a Integer[]
+2014-05-28 09:20:15  [ main:293 ] - [ DEBUG ]  Setting default value: [Ljava.lang.Long;@66d023da
+2014-05-28 09:20:15  [ main:293 ] - [ DEBUG ]  Converting 'Long[]' value '[Ljava.lang.Long;@66d023da' to type 'Long[]'
+2014-05-28 09:20:15  [ main:293 ] - [ DEBUG ]      No conversion required, value is already a Long[]
+2014-05-28 09:20:15  [ main:293 ] - [ DEBUG ]  Setting default value: [Ljava.lang.Short;@6ae1f1f1
+2014-05-28 09:20:15  [ main:293 ] - [ DEBUG ]  Converting 'Short[]' value '[Ljava.lang.Short;@6ae1f1f1' to type 'Short[]'
+2014-05-28 09:20:15  [ main:293 ] - [ DEBUG ]      No conversion required, value is already a Short[]
+2014-05-28 09:20:15  [ main:294 ] - [ DEBUG ]  Setting default value: [Ljava.lang.String;@17d33c09
+2014-05-28 09:20:15  [ main:294 ] - [ DEBUG ]  Converting 'String[]' value '[Ljava.lang.String;@17d33c09' to type 'String[]'
+2014-05-28 09:20:15  [ main:294 ] - [ DEBUG ]      No conversion required, value is already a String[]
+2014-05-28 09:20:15  [ main:294 ] - [ DEBUG ]  Setting default value: [Ljava.lang.Class;@2d0a7f17
+2014-05-28 09:20:15  [ main:294 ] - [ DEBUG ]  Converting 'Class[]' value '[Ljava.lang.Class;@2d0a7f17' to type 'Class[]'
+2014-05-28 09:20:15  [ main:294 ] - [ DEBUG ]      No conversion required, value is already a Class[]
+2014-05-28 09:20:15  [ main:294 ] - [ DEBUG ]  Setting default value: [Ljava.util.Date;@7ad38cd3
+2014-05-28 09:20:15  [ main:294 ] - [ DEBUG ]  Converting 'Date[]' value '[Ljava.util.Date;@7ad38cd3' to type 'Date[]'
+2014-05-28 09:20:15  [ main:295 ] - [ DEBUG ]      No conversion required, value is already a Date[]
+2014-05-28 09:20:15  [ main:295 ] - [ DEBUG ]  Setting default value: [Ljava.util.Calendar;@67940cc9
+2014-05-28 09:20:15  [ main:295 ] - [ DEBUG ]  Converting 'Calendar[]' value '[Ljava.util.Calendar;@67940cc9' to type 'Calendar[]'
+2014-05-28 09:20:15  [ main:295 ] - [ DEBUG ]      No conversion required, value is already a Calendar[]
+2014-05-28 09:20:15  [ main:295 ] - [ DEBUG ]  Setting default value: [Ljava.io.File;@5aeb7009
+2014-05-28 09:20:15  [ main:295 ] - [ DEBUG ]  Converting 'java.io.File[]' value '[Ljava.io.File;@5aeb7009' to type 'java.io.File[]'
+2014-05-28 09:20:15  [ main:295 ] - [ DEBUG ]      No conversion required, value is already a java.io.File[]
+2014-05-28 09:20:15  [ main:295 ] - [ DEBUG ]  Setting default value: [Ljava.sql.Date;@7bfa0f08
+2014-05-28 09:20:15  [ main:295 ] - [ DEBUG ]  Converting 'java.sql.Date[]' value '[Ljava.sql.Date;@7bfa0f08' to type 'java.sql.Date[]'
+2014-05-28 09:20:15  [ main:296 ] - [ DEBUG ]      No conversion required, value is already a java.sql.Date[]
+2014-05-28 09:20:15  [ main:296 ] - [ DEBUG ]  Setting default value: [Ljava.sql.Time;@35758ffa
+2014-05-28 09:20:15  [ main:296 ] - [ DEBUG ]  Converting 'java.sql.Time[]' value '[Ljava.sql.Time;@35758ffa' to type 'java.sql.Time[]'
+2014-05-28 09:20:15  [ main:296 ] - [ DEBUG ]      No conversion required, value is already a java.sql.Time[]
+2014-05-28 09:20:15  [ main:296 ] - [ DEBUG ]  Setting default value: [Ljava.sql.Timestamp;@217de52a
+2014-05-28 09:20:15  [ main:296 ] - [ DEBUG ]  Converting 'java.sql.Timestamp[]' value '[Ljava.sql.Timestamp;@217de52a' to type 'java.sql.Timestamp[]'
+2014-05-28 09:20:15  [ main:296 ] - [ DEBUG ]      No conversion required, value is already a java.sql.Timestamp[]
+2014-05-28 09:20:15  [ main:296 ] - [ DEBUG ]  Setting default value: [Ljava.net.URL;@42f40b16
+2014-05-28 09:20:15  [ main:297 ] - [ DEBUG ]  Converting 'java.net.URL[]' value '[Ljava.net.URL;@42f40b16' to type 'java.net.URL[]'
+2014-05-28 09:20:15  [ main:297 ] - [ DEBUG ]      No conversion required, value is already a java.net.URL[]
+2014-05-28 09:20:15  [ main:318 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@394003fc to phase prepare-send
+2014-05-28 09:20:15  [ main:319 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@394003fc to phase prepare-send
+2014-05-28 09:20:15  [ main:337 ] - [ DEBUG ]  Conduit '{http://127.0.0.1:8080}WebClient.http-conduit' has been (re)configured for plain http.
+2014-05-28 09:20:15  [ main:337 ] - [ DEBUG ]  No Trust Decider configured for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'
+2014-05-28 09:20:15  [ main:337 ] - [ DEBUG ]  No Auth Supplier configured for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'
+2014-05-28 09:20:15  [ main:338 ] - [ DEBUG ]  Conduit '{http://127.0.0.1:8080}WebClient.http-conduit' has been configured for plain http.
+2014-05-28 09:20:15  [ main:338 ] - [ DEBUG ]  registering incoming observer: org.apache.cxf.jaxrs.client.ClientMessageObserver@266c4c10
+2014-05-28 09:20:15  [ main:338 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.jaxrs.client.WebClient$BodyWriter@5a44a5e1 to phase write
+2014-05-28 09:20:15  [ main:339 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@ded0b93 was created. Current flow:
+  prepare-send [MessageSenderInterceptor]
+  write [BodyWriter]
+
+2014-05-28 09:20:15  [ main:339 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@394003fc
+2014-05-28 09:20:15  [ main:346 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor$MessageSenderEndingInterceptor@45890909 to phase prepare-send-ending
+2014-05-28 09:20:15  [ main:346 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@ded0b93 was modified. Current flow:
+  prepare-send [MessageSenderInterceptor]
+  write [BodyWriter]
+  prepare-send-ending [MessageSenderEndingInterceptor]
+
+2014-05-28 09:20:15  [ main:346 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.jaxrs.client.WebClient$BodyWriter@5a44a5e1
+2014-05-28 09:20:15  [ main:348 ] - [ ERROR ]  .No message body writer has been found for class : class pku.edu.cn.monitor.restclient.MetadataNode, ContentType : application/json.
+2014-05-28 09:20:15  [ main:351 ] - [ DEBUG ]  Invoking handleFault on interceptor org.apache.cxf.jaxrs.client.WebClient$BodyWriter@5a44a5e1
+2014-05-28 09:20:15  [ main:351 ] - [ DEBUG ]  Invoking handleFault on interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@394003fc
+2014-05-28 09:20:15  [ main:353 ] - [ WARN ]  Interceptor for {http://127.0.0.1:8080}WebClient has thrown exception, unwinding now
+org.apache.cxf.interceptor.Fault: .No message body writer has been found for class : class pku.edu.cn.monitor.restclient.MetadataNode, ContentType : application/json.
+	at org.apache.cxf.jaxrs.client.WebClient$BodyWriter.handleMessage(WebClient.java:939)
+	at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:263)
+	at org.apache.cxf.jaxrs.client.WebClient.doChainedInvocation(WebClient.java:840)
+	at org.apache.cxf.jaxrs.client.WebClient.doInvoke(WebClient.java:788)
+	at org.apache.cxf.jaxrs.client.WebClient.doInvoke(WebClient.java:749)
+	at org.apache.cxf.jaxrs.client.WebClient.invoke(WebClient.java:283)
+	at org.apache.cxf.jaxrs.client.WebClient.post(WebClient.java:292)
+	at pku.edu.cn.monitor.restclient.Client.restPost(Client.java:19)
+	at pku.edu.cn.monitor.restclient.Client.main(Client.java:30)
+Caused by: org.apache.cxf.jaxrs.client.ClientWebApplicationException: .No message body writer has been found for class : class pku.edu.cn.monitor.restclient.MetadataNode, ContentType : application/json.
+	at org.apache.cxf.jaxrs.client.AbstractClient.reportMessageHandlerProblem(AbstractClient.java:649)
+	at org.apache.cxf.jaxrs.client.AbstractClient.writeBody(AbstractClient.java:402)
+	at org.apache.cxf.jaxrs.client.WebClient$BodyWriter.handleMessage(WebClient.java:931)
+	... 8 more
+2014-05-28 09:27:51  [ main:0 ] - [ DEBUG ]  Using org.apache.cxf.common.logging.Log4jLogger for logging.
+2014-05-28 09:27:51  [ main:171 ] - [ DEBUG ]  Problem with creating the default provider org.apache.cxf.jaxrs.provider.json.JSONProvider: org.apache.cxf.jaxrs.provider.json.JSONProvider
+2014-05-28 09:27:51  [ main:200 ] - [ DEBUG ]  Problem with creating the default provider org.apache.cxf.jaxrs.provider.json.JSONProvider: org.apache.cxf.jaxrs.provider.json.JSONProvider
+2014-05-28 09:27:51  [ main:262 ] - [ DEBUG ]  Setting default value: false
+2014-05-28 09:27:51  [ main:262 ] - [ DEBUG ]  Converting 'Boolean' value 'false' to type 'Boolean'
+2014-05-28 09:27:51  [ main:263 ] - [ DEBUG ]      No conversion required, value is already a Boolean
+2014-05-28 09:27:51  [ main:265 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:27:51  [ main:265 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Byte'
+2014-05-28 09:27:51  [ main:265 ] - [ DEBUG ]      Converted to Byte value '0'
+2014-05-28 09:27:51  [ main:265 ] - [ DEBUG ]  Setting default value:  
+2014-05-28 09:27:51  [ main:265 ] - [ DEBUG ]  Converting 'Character' value ' ' to type 'Character'
+2014-05-28 09:27:51  [ main:266 ] - [ DEBUG ]      No conversion required, value is already a Character
+2014-05-28 09:27:51  [ main:266 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:27:51  [ main:266 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Double'
+2014-05-28 09:27:51  [ main:266 ] - [ DEBUG ]      Converted to Double value '0.0'
+2014-05-28 09:27:51  [ main:267 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:27:51  [ main:268 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Float'
+2014-05-28 09:27:51  [ main:268 ] - [ DEBUG ]      Converted to Float value '0.0'
+2014-05-28 09:27:51  [ main:269 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:27:51  [ main:269 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Integer'
+2014-05-28 09:27:51  [ main:269 ] - [ DEBUG ]      No conversion required, value is already a Integer
+2014-05-28 09:27:51  [ main:269 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:27:51  [ main:269 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Long'
+2014-05-28 09:27:51  [ main:270 ] - [ DEBUG ]      Converted to Long value '0'
+2014-05-28 09:27:51  [ main:270 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:27:51  [ main:270 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Short'
+2014-05-28 09:27:51  [ main:270 ] - [ DEBUG ]      Converted to Short value '0'
+2014-05-28 09:27:51  [ main:271 ] - [ DEBUG ]  Setting default value: 0.0
+2014-05-28 09:27:51  [ main:271 ] - [ DEBUG ]  Converting 'BigDecimal' value '0.0' to type 'BigDecimal'
+2014-05-28 09:27:51  [ main:271 ] - [ DEBUG ]      No conversion required, value is already a BigDecimal
+2014-05-28 09:27:51  [ main:272 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:27:51  [ main:272 ] - [ DEBUG ]  Converting 'BigInteger' value '0' to type 'BigInteger'
+2014-05-28 09:27:51  [ main:272 ] - [ DEBUG ]      No conversion required, value is already a BigInteger
+2014-05-28 09:27:51  [ main:272 ] - [ DEBUG ]  Setting default value: false
+2014-05-28 09:27:51  [ main:272 ] - [ DEBUG ]  Converting 'Boolean' value 'false' to type 'Boolean'
+2014-05-28 09:27:51  [ main:272 ] - [ DEBUG ]      No conversion required, value is already a Boolean
+2014-05-28 09:27:51  [ main:272 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:27:51  [ main:272 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Byte'
+2014-05-28 09:27:51  [ main:273 ] - [ DEBUG ]      Converted to Byte value '0'
+2014-05-28 09:27:51  [ main:273 ] - [ DEBUG ]  Setting default value:  
+2014-05-28 09:27:51  [ main:273 ] - [ DEBUG ]  Converting 'Character' value ' ' to type 'Character'
+2014-05-28 09:27:51  [ main:273 ] - [ DEBUG ]      No conversion required, value is already a Character
+2014-05-28 09:27:51  [ main:273 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:27:51  [ main:273 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Double'
+2014-05-28 09:27:51  [ main:273 ] - [ DEBUG ]      Converted to Double value '0.0'
+2014-05-28 09:27:51  [ main:274 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:27:51  [ main:274 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Float'
+2014-05-28 09:27:51  [ main:274 ] - [ DEBUG ]      Converted to Float value '0.0'
+2014-05-28 09:27:51  [ main:274 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:27:51  [ main:274 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Integer'
+2014-05-28 09:27:51  [ main:274 ] - [ DEBUG ]      No conversion required, value is already a Integer
+2014-05-28 09:27:51  [ main:274 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:27:51  [ main:274 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Long'
+2014-05-28 09:27:51  [ main:274 ] - [ DEBUG ]      Converted to Long value '0'
+2014-05-28 09:27:51  [ main:275 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:27:51  [ main:275 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Short'
+2014-05-28 09:27:51  [ main:275 ] - [ DEBUG ]      Converted to Short value '0'
+2014-05-28 09:27:51  [ main:275 ] - [ DEBUG ]  Setting default value: 
+2014-05-28 09:27:51  [ main:275 ] - [ DEBUG ]  Converting 'String' value '' to type 'String'
+2014-05-28 09:27:51  [ main:280 ] - [ DEBUG ]  Setting default value: [Z@6b934d13
+2014-05-28 09:27:51  [ main:281 ] - [ DEBUG ]  Converting 'boolean[]' value '[Z@6b934d13' to type 'boolean[]'
+2014-05-28 09:27:51  [ main:281 ] - [ DEBUG ]      No conversion required, value is already a boolean[]
+2014-05-28 09:27:51  [ main:281 ] - [ DEBUG ]  Setting default value: [B@13a95192
+2014-05-28 09:27:51  [ main:281 ] - [ DEBUG ]  Converting 'byte[]' value '[B@13a95192' to type 'byte[]'
+2014-05-28 09:27:51  [ main:281 ] - [ DEBUG ]      No conversion required, value is already a byte[]
+2014-05-28 09:27:51  [ main:281 ] - [ DEBUG ]  Setting default value: [C@512a5253
+2014-05-28 09:27:51  [ main:281 ] - [ DEBUG ]  Converting 'char[]' value '[C@512a5253' to type 'char[]'
+2014-05-28 09:27:51  [ main:282 ] - [ DEBUG ]      No conversion required, value is already a char[]
+2014-05-28 09:27:51  [ main:282 ] - [ DEBUG ]  Setting default value: [D@3182f0c6
+2014-05-28 09:27:51  [ main:282 ] - [ DEBUG ]  Converting 'double[]' value '[D@3182f0c6' to type 'double[]'
+2014-05-28 09:27:51  [ main:282 ] - [ DEBUG ]      No conversion required, value is already a double[]
+2014-05-28 09:27:51  [ main:282 ] - [ DEBUG ]  Setting default value: [F@b8d708f
+2014-05-28 09:27:51  [ main:282 ] - [ DEBUG ]  Converting 'float[]' value '[F@b8d708f' to type 'float[]'
+2014-05-28 09:27:51  [ main:282 ] - [ DEBUG ]      No conversion required, value is already a float[]
+2014-05-28 09:27:51  [ main:282 ] - [ DEBUG ]  Setting default value: [I@72d8c235
+2014-05-28 09:27:51  [ main:283 ] - [ DEBUG ]  Converting 'int[]' value '[I@72d8c235' to type 'int[]'
+2014-05-28 09:27:51  [ main:283 ] - [ DEBUG ]      No conversion required, value is already a int[]
+2014-05-28 09:27:51  [ main:283 ] - [ DEBUG ]  Setting default value: [J@74b6607a
+2014-05-28 09:27:51  [ main:283 ] - [ DEBUG ]  Converting 'long[]' value '[J@74b6607a' to type 'long[]'
+2014-05-28 09:27:51  [ main:283 ] - [ DEBUG ]      No conversion required, value is already a long[]
+2014-05-28 09:27:51  [ main:283 ] - [ DEBUG ]  Setting default value: [S@71782572
+2014-05-28 09:27:51  [ main:283 ] - [ DEBUG ]  Converting 'short[]' value '[S@71782572' to type 'short[]'
+2014-05-28 09:27:51  [ main:283 ] - [ DEBUG ]      No conversion required, value is already a short[]
+2014-05-28 09:27:51  [ main:283 ] - [ DEBUG ]  Setting default value: [Ljava.math.BigDecimal;@6e29991
+2014-05-28 09:27:51  [ main:284 ] - [ DEBUG ]  Converting 'BigDecimal[]' value '[Ljava.math.BigDecimal;@6e29991' to type 'BigDecimal[]'
+2014-05-28 09:27:51  [ main:284 ] - [ DEBUG ]      No conversion required, value is already a BigDecimal[]
+2014-05-28 09:27:51  [ main:284 ] - [ DEBUG ]  Setting default value: [Ljava.math.BigInteger;@6d0021f
+2014-05-28 09:27:51  [ main:284 ] - [ DEBUG ]  Converting 'BigInteger[]' value '[Ljava.math.BigInteger;@6d0021f' to type 'BigInteger[]'
+2014-05-28 09:27:51  [ main:284 ] - [ DEBUG ]      No conversion required, value is already a BigInteger[]
+2014-05-28 09:27:51  [ main:284 ] - [ DEBUG ]  Setting default value: [Ljava.lang.Boolean;@423b44b7
+2014-05-28 09:27:51  [ main:284 ] - [ DEBUG ]  Converting 'Boolean[]' value '[Ljava.lang.Boolean;@423b44b7' to type 'Boolean[]'
+2014-05-28 09:27:51  [ main:284 ] - [ DEBUG ]      No conversion required, value is already a Boolean[]
+2014-05-28 09:27:51  [ main:284 ] - [ DEBUG ]  Setting default value: [Ljava.lang.Byte;@411c6c59
+2014-05-28 09:27:51  [ main:285 ] - [ DEBUG ]  Converting 'Byte[]' value '[Ljava.lang.Byte;@411c6c59' to type 'Byte[]'
+2014-05-28 09:27:51  [ main:285 ] - [ DEBUG ]      No conversion required, value is already a Byte[]
+2014-05-28 09:27:51  [ main:285 ] - [ DEBUG ]  Setting default value: [Ljava.lang.Character;@310d6874
+2014-05-28 09:27:51  [ main:285 ] - [ DEBUG ]  Converting 'Character[]' value '[Ljava.lang.Character;@310d6874' to type 'Character[]'
+2014-05-28 09:27:51  [ main:285 ] - [ DEBUG ]      No conversion required, value is already a Character[]
+2014-05-28 09:27:51  [ main:285 ] - [ DEBUG ]  Setting default value: [Ljava.lang.Double;@6744b0d4
+2014-05-28 09:27:51  [ main:285 ] - [ DEBUG ]  Converting 'Double[]' value '[Ljava.lang.Double;@6744b0d4' to type 'Double[]'
+2014-05-28 09:27:51  [ main:285 ] - [ DEBUG ]      No conversion required, value is already a Double[]
+2014-05-28 09:27:51  [ main:285 ] - [ DEBUG ]  Setting default value: [Ljava.lang.Float;@4eb56343
+2014-05-28 09:27:51  [ main:286 ] - [ DEBUG ]  Converting 'Float[]' value '[Ljava.lang.Float;@4eb56343' to type 'Float[]'
+2014-05-28 09:27:51  [ main:286 ] - [ DEBUG ]      No conversion required, value is already a Float[]
+2014-05-28 09:27:51  [ main:286 ] - [ DEBUG ]  Setting default value: [Ljava.lang.Integer;@6687ec13
+2014-05-28 09:27:51  [ main:286 ] - [ DEBUG ]  Converting 'Integer[]' value '[Ljava.lang.Integer;@6687ec13' to type 'Integer[]'
+2014-05-28 09:27:51  [ main:286 ] - [ DEBUG ]      No conversion required, value is already a Integer[]
+2014-05-28 09:27:51  [ main:286 ] - [ DEBUG ]  Setting default value: [Ljava.lang.Long;@659c07fb
+2014-05-28 09:27:51  [ main:286 ] - [ DEBUG ]  Converting 'Long[]' value '[Ljava.lang.Long;@659c07fb' to type 'Long[]'
+2014-05-28 09:27:51  [ main:286 ] - [ DEBUG ]      No conversion required, value is already a Long[]
+2014-05-28 09:27:51  [ main:286 ] - [ DEBUG ]  Setting default value: [Ljava.lang.Short;@66d023da
+2014-05-28 09:27:51  [ main:287 ] - [ DEBUG ]  Converting 'Short[]' value '[Ljava.lang.Short;@66d023da' to type 'Short[]'
+2014-05-28 09:27:51  [ main:287 ] - [ DEBUG ]      No conversion required, value is already a Short[]
+2014-05-28 09:27:51  [ main:287 ] - [ DEBUG ]  Setting default value: [Ljava.lang.String;@6ae1f1f1
+2014-05-28 09:27:51  [ main:287 ] - [ DEBUG ]  Converting 'String[]' value '[Ljava.lang.String;@6ae1f1f1' to type 'String[]'
+2014-05-28 09:27:51  [ main:287 ] - [ DEBUG ]      No conversion required, value is already a String[]
+2014-05-28 09:27:51  [ main:287 ] - [ DEBUG ]  Setting default value: [Ljava.lang.Class;@17d33c09
+2014-05-28 09:27:51  [ main:287 ] - [ DEBUG ]  Converting 'Class[]' value '[Ljava.lang.Class;@17d33c09' to type 'Class[]'
+2014-05-28 09:27:51  [ main:287 ] - [ DEBUG ]      No conversion required, value is already a Class[]
+2014-05-28 09:27:51  [ main:288 ] - [ DEBUG ]  Setting default value: [Ljava.util.Date;@c1dd61b
+2014-05-28 09:27:51  [ main:288 ] - [ DEBUG ]  Converting 'Date[]' value '[Ljava.util.Date;@c1dd61b' to type 'Date[]'
+2014-05-28 09:27:51  [ main:288 ] - [ DEBUG ]      No conversion required, value is already a Date[]
+2014-05-28 09:27:51  [ main:288 ] - [ DEBUG ]  Setting default value: [Ljava.util.Calendar;@799647c
+2014-05-28 09:27:51  [ main:288 ] - [ DEBUG ]  Converting 'Calendar[]' value '[Ljava.util.Calendar;@799647c' to type 'Calendar[]'
+2014-05-28 09:27:51  [ main:288 ] - [ DEBUG ]      No conversion required, value is already a Calendar[]
+2014-05-28 09:27:51  [ main:288 ] - [ DEBUG ]  Setting default value: [Ljava.io.File;@28d3953f
+2014-05-28 09:27:51  [ main:288 ] - [ DEBUG ]  Converting 'java.io.File[]' value '[Ljava.io.File;@28d3953f' to type 'java.io.File[]'
+2014-05-28 09:27:51  [ main:288 ] - [ DEBUG ]      No conversion required, value is already a java.io.File[]
+2014-05-28 09:27:51  [ main:289 ] - [ DEBUG ]  Setting default value: [Ljava.sql.Date;@32821bf7
+2014-05-28 09:27:51  [ main:289 ] - [ DEBUG ]  Converting 'java.sql.Date[]' value '[Ljava.sql.Date;@32821bf7' to type 'java.sql.Date[]'
+2014-05-28 09:27:51  [ main:289 ] - [ DEBUG ]      No conversion required, value is already a java.sql.Date[]
+2014-05-28 09:27:51  [ main:289 ] - [ DEBUG ]  Setting default value: [Ljava.sql.Time;@7eceb790
+2014-05-28 09:27:51  [ main:289 ] - [ DEBUG ]  Converting 'java.sql.Time[]' value '[Ljava.sql.Time;@7eceb790' to type 'java.sql.Time[]'
+2014-05-28 09:27:51  [ main:289 ] - [ DEBUG ]      No conversion required, value is already a java.sql.Time[]
+2014-05-28 09:27:51  [ main:289 ] - [ DEBUG ]  Setting default value: [Ljava.sql.Timestamp;@784f5983
+2014-05-28 09:27:51  [ main:289 ] - [ DEBUG ]  Converting 'java.sql.Timestamp[]' value '[Ljava.sql.Timestamp;@784f5983' to type 'java.sql.Timestamp[]'
+2014-05-28 09:27:51  [ main:289 ] - [ DEBUG ]      No conversion required, value is already a java.sql.Timestamp[]
+2014-05-28 09:27:51  [ main:290 ] - [ DEBUG ]  Setting default value: [Ljava.net.URL;@50503993
+2014-05-28 09:27:51  [ main:290 ] - [ DEBUG ]  Converting 'java.net.URL[]' value '[Ljava.net.URL;@50503993' to type 'java.net.URL[]'
+2014-05-28 09:27:51  [ main:290 ] - [ DEBUG ]      No conversion required, value is already a java.net.URL[]
+2014-05-28 09:27:51  [ main:311 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@db25e1a to phase prepare-send
+2014-05-28 09:27:51  [ main:311 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@db25e1a to phase prepare-send
+2014-05-28 09:27:51  [ main:329 ] - [ DEBUG ]  Conduit '{http://127.0.0.1:8080}WebClient.http-conduit' has been (re)configured for plain http.
+2014-05-28 09:27:51  [ main:329 ] - [ DEBUG ]  No Trust Decider configured for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'
+2014-05-28 09:27:51  [ main:329 ] - [ DEBUG ]  No Auth Supplier configured for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'
+2014-05-28 09:27:51  [ main:329 ] - [ DEBUG ]  Conduit '{http://127.0.0.1:8080}WebClient.http-conduit' has been configured for plain http.
+2014-05-28 09:27:51  [ main:329 ] - [ DEBUG ]  registering incoming observer: org.apache.cxf.jaxrs.client.ClientMessageObserver@73f43791
+2014-05-28 09:27:51  [ main:330 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.jaxrs.client.WebClient$BodyWriter@515f9553 to phase write
+2014-05-28 09:27:51  [ main:331 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@1d989b13 was created. Current flow:
+  prepare-send [MessageSenderInterceptor]
+  write [BodyWriter]
+
+2014-05-28 09:27:51  [ main:331 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@db25e1a
+2014-05-28 09:27:51  [ main:337 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor$MessageSenderEndingInterceptor@544423c7 to phase prepare-send-ending
+2014-05-28 09:27:51  [ main:337 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@1d989b13 was modified. Current flow:
+  prepare-send [MessageSenderInterceptor]
+  write [BodyWriter]
+  prepare-send-ending [MessageSenderEndingInterceptor]
+
+2014-05-28 09:27:51  [ main:337 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.jaxrs.client.WebClient$BodyWriter@515f9553
+2014-05-28 09:27:51  [ main:339 ] - [ ERROR ]  .No message body writer has been found for class : class pku.edu.cn.monitor.restclient.MetadataNode, ContentType : application/json.
+2014-05-28 09:27:51  [ main:340 ] - [ DEBUG ]  Invoking handleFault on interceptor org.apache.cxf.jaxrs.client.WebClient$BodyWriter@515f9553
+2014-05-28 09:27:51  [ main:340 ] - [ DEBUG ]  Invoking handleFault on interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@db25e1a
+2014-05-28 09:27:51  [ main:341 ] - [ WARN ]  Interceptor for {http://127.0.0.1:8080}WebClient has thrown exception, unwinding now
+org.apache.cxf.interceptor.Fault: .No message body writer has been found for class : class pku.edu.cn.monitor.restclient.MetadataNode, ContentType : application/json.
+	at org.apache.cxf.jaxrs.client.WebClient$BodyWriter.handleMessage(WebClient.java:939)
+	at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:263)
+	at org.apache.cxf.jaxrs.client.WebClient.doChainedInvocation(WebClient.java:840)
+	at org.apache.cxf.jaxrs.client.WebClient.doInvoke(WebClient.java:788)
+	at org.apache.cxf.jaxrs.client.WebClient.doInvoke(WebClient.java:749)
+	at org.apache.cxf.jaxrs.client.WebClient.invoke(WebClient.java:283)
+	at org.apache.cxf.jaxrs.client.WebClient.post(WebClient.java:292)
+	at pku.edu.cn.monitor.restclient.Client.restPost(Client.java:19)
+	at pku.edu.cn.monitor.restclient.Client.main(Client.java:30)
+Caused by: org.apache.cxf.jaxrs.client.ClientWebApplicationException: .No message body writer has been found for class : class pku.edu.cn.monitor.restclient.MetadataNode, ContentType : application/json.
+	at org.apache.cxf.jaxrs.client.AbstractClient.reportMessageHandlerProblem(AbstractClient.java:649)
+	at org.apache.cxf.jaxrs.client.AbstractClient.writeBody(AbstractClient.java:402)
+	at org.apache.cxf.jaxrs.client.WebClient$BodyWriter.handleMessage(WebClient.java:931)
+	... 8 more
+2014-05-28 09:47:46  [ main:0 ] - [ DEBUG ]  Using org.apache.cxf.common.logging.Log4jLogger for logging.
+2014-05-28 09:47:46  [ main:172 ] - [ DEBUG ]  Problem with creating the default provider org.apache.cxf.jaxrs.provider.json.JSONProvider: org.apache.cxf.jaxrs.provider.json.JSONProvider
+2014-05-28 09:47:46  [ main:201 ] - [ DEBUG ]  Problem with creating the default provider org.apache.cxf.jaxrs.provider.json.JSONProvider: org.apache.cxf.jaxrs.provider.json.JSONProvider
+2014-05-28 09:47:46  [ main:263 ] - [ DEBUG ]  Setting default value: false
+2014-05-28 09:47:46  [ main:263 ] - [ DEBUG ]  Converting 'Boolean' value 'false' to type 'Boolean'
+2014-05-28 09:47:47  [ main:264 ] - [ DEBUG ]      No conversion required, value is already a Boolean
+2014-05-28 09:47:47  [ main:266 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:47:47  [ main:266 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Byte'
+2014-05-28 09:47:47  [ main:266 ] - [ DEBUG ]      Converted to Byte value '0'
+2014-05-28 09:47:47  [ main:267 ] - [ DEBUG ]  Setting default value:  
+2014-05-28 09:47:47  [ main:267 ] - [ DEBUG ]  Converting 'Character' value ' ' to type 'Character'
+2014-05-28 09:47:47  [ main:267 ] - [ DEBUG ]      No conversion required, value is already a Character
+2014-05-28 09:47:47  [ main:267 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:47:47  [ main:267 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Double'
+2014-05-28 09:47:47  [ main:268 ] - [ DEBUG ]      Converted to Double value '0.0'
+2014-05-28 09:47:47  [ main:268 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:47:47  [ main:269 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Float'
+2014-05-28 09:47:47  [ main:269 ] - [ DEBUG ]      Converted to Float value '0.0'
+2014-05-28 09:47:47  [ main:270 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:47:47  [ main:270 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Integer'
+2014-05-28 09:47:47  [ main:270 ] - [ DEBUG ]      No conversion required, value is already a Integer
+2014-05-28 09:47:47  [ main:271 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:47:47  [ main:271 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Long'
+2014-05-28 09:47:47  [ main:271 ] - [ DEBUG ]      Converted to Long value '0'
+2014-05-28 09:47:47  [ main:271 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:47:47  [ main:272 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Short'
+2014-05-28 09:47:47  [ main:272 ] - [ DEBUG ]      Converted to Short value '0'
+2014-05-28 09:47:47  [ main:272 ] - [ DEBUG ]  Setting default value: 0.0
+2014-05-28 09:47:47  [ main:272 ] - [ DEBUG ]  Converting 'BigDecimal' value '0.0' to type 'BigDecimal'
+2014-05-28 09:47:47  [ main:272 ] - [ DEBUG ]      No conversion required, value is already a BigDecimal
+2014-05-28 09:47:47  [ main:273 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:47:47  [ main:273 ] - [ DEBUG ]  Converting 'BigInteger' value '0' to type 'BigInteger'
+2014-05-28 09:47:47  [ main:273 ] - [ DEBUG ]      No conversion required, value is already a BigInteger
+2014-05-28 09:47:47  [ main:273 ] - [ DEBUG ]  Setting default value: false
+2014-05-28 09:47:47  [ main:273 ] - [ DEBUG ]  Converting 'Boolean' value 'false' to type 'Boolean'
+2014-05-28 09:47:47  [ main:274 ] - [ DEBUG ]      No conversion required, value is already a Boolean
+2014-05-28 09:47:47  [ main:274 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:47:47  [ main:274 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Byte'
+2014-05-28 09:47:47  [ main:274 ] - [ DEBUG ]      Converted to Byte value '0'
+2014-05-28 09:47:47  [ main:274 ] - [ DEBUG ]  Setting default value:  
+2014-05-28 09:47:47  [ main:274 ] - [ DEBUG ]  Converting 'Character' value ' ' to type 'Character'
+2014-05-28 09:47:47  [ main:274 ] - [ DEBUG ]      No conversion required, value is already a Character
+2014-05-28 09:47:47  [ main:274 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:47:47  [ main:275 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Double'
+2014-05-28 09:47:47  [ main:275 ] - [ DEBUG ]      Converted to Double value '0.0'
+2014-05-28 09:47:47  [ main:275 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:47:47  [ main:275 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Float'
+2014-05-28 09:47:47  [ main:275 ] - [ DEBUG ]      Converted to Float value '0.0'
+2014-05-28 09:47:47  [ main:275 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:47:47  [ main:275 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Integer'
+2014-05-28 09:47:47  [ main:275 ] - [ DEBUG ]      No conversion required, value is already a Integer
+2014-05-28 09:47:47  [ main:275 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:47:47  [ main:276 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Long'
+2014-05-28 09:47:47  [ main:276 ] - [ DEBUG ]      Converted to Long value '0'
+2014-05-28 09:47:47  [ main:276 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:47:47  [ main:276 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Short'
+2014-05-28 09:47:47  [ main:276 ] - [ DEBUG ]      Converted to Short value '0'
+2014-05-28 09:47:47  [ main:277 ] - [ DEBUG ]  Setting default value: 
+2014-05-28 09:47:47  [ main:277 ] - [ DEBUG ]  Converting 'String' value '' to type 'String'
+2014-05-28 09:47:47  [ main:282 ] - [ DEBUG ]  Setting default value: [Z@13a95192
+2014-05-28 09:47:47  [ main:282 ] - [ DEBUG ]  Converting 'boolean[]' value '[Z@13a95192' to type 'boolean[]'
+2014-05-28 09:47:47  [ main:282 ] - [ DEBUG ]      No conversion required, value is already a boolean[]
+2014-05-28 09:47:47  [ main:282 ] - [ DEBUG ]  Setting default value: [B@512a5253
+2014-05-28 09:47:47  [ main:283 ] - [ DEBUG ]  Converting 'byte[]' value '[B@512a5253' to type 'byte[]'
+2014-05-28 09:47:47  [ main:283 ] - [ DEBUG ]      No conversion required, value is already a byte[]
+2014-05-28 09:47:47  [ main:283 ] - [ DEBUG ]  Setting default value: [C@3182f0c6
+2014-05-28 09:47:47  [ main:283 ] - [ DEBUG ]  Converting 'char[]' value '[C@3182f0c6' to type 'char[]'
+2014-05-28 09:47:47  [ main:283 ] - [ DEBUG ]      No conversion required, value is already a char[]
+2014-05-28 09:47:47  [ main:283 ] - [ DEBUG ]  Setting default value: [D@b8d708f
+2014-05-28 09:47:47  [ main:283 ] - [ DEBUG ]  Converting 'double[]' value '[D@b8d708f' to type 'double[]'
+2014-05-28 09:47:47  [ main:283 ] - [ DEBUG ]      No conversion required, value is already a double[]
+2014-05-28 09:47:47  [ main:283 ] - [ DEBUG ]  Setting default value: [F@72d8c235
+2014-05-28 09:47:47  [ main:284 ] - [ DEBUG ]  Converting 'float[]' value '[F@72d8c235' to type 'float[]'
+2014-05-28 09:47:47  [ main:284 ] - [ DEBUG ]      No conversion required, value is already a float[]
+2014-05-28 09:47:47  [ main:284 ] - [ DEBUG ]  Setting default value: [I@74b6607a
+2014-05-28 09:47:47  [ main:284 ] - [ DEBUG ]  Converting 'int[]' value '[I@74b6607a' to type 'int[]'
+2014-05-28 09:47:47  [ main:284 ] - [ DEBUG ]      No conversion required, value is already a int[]
+2014-05-28 09:47:47  [ main:284 ] - [ DEBUG ]  Setting default value: [J@71782572
+2014-05-28 09:47:47  [ main:284 ] - [ DEBUG ]  Converting 'long[]' value '[J@71782572' to type 'long[]'
+2014-05-28 09:47:47  [ main:284 ] - [ DEBUG ]      No conversion required, value is already a long[]
+2014-05-28 09:47:47  [ main:285 ] - [ DEBUG ]  Setting default value: [S@6e29991
+2014-05-28 09:47:47  [ main:285 ] - [ DEBUG ]  Converting 'short[]' value '[S@6e29991' to type 'short[]'
+2014-05-28 09:47:47  [ main:285 ] - [ DEBUG ]      No conversion required, value is already a short[]
+2014-05-28 09:47:47  [ main:285 ] - [ DEBUG ]  Setting default value: [Ljava.math.BigDecimal;@6d0021f
+2014-05-28 09:47:47  [ main:285 ] - [ DEBUG ]  Converting 'BigDecimal[]' value '[Ljava.math.BigDecimal;@6d0021f' to type 'BigDecimal[]'
+2014-05-28 09:47:47  [ main:285 ] - [ DEBUG ]      No conversion required, value is already a BigDecimal[]
+2014-05-28 09:47:47  [ main:285 ] - [ DEBUG ]  Setting default value: [Ljava.math.BigInteger;@423b44b7
+2014-05-28 09:47:47  [ main:286 ] - [ DEBUG ]  Converting 'BigInteger[]' value '[Ljava.math.BigInteger;@423b44b7' to type 'BigInteger[]'
+2014-05-28 09:47:47  [ main:286 ] - [ DEBUG ]      No conversion required, value is already a BigInteger[]
+2014-05-28 09:47:47  [ main:286 ] - [ DEBUG ]  Setting default value: [Ljava.lang.Boolean;@411c6c59
+2014-05-28 09:47:47  [ main:286 ] - [ DEBUG ]  Converting 'Boolean[]' value '[Ljava.lang.Boolean;@411c6c59' to type 'Boolean[]'
+2014-05-28 09:47:47  [ main:286 ] - [ DEBUG ]      No conversion required, value is already a Boolean[]
+2014-05-28 09:47:47  [ main:286 ] - [ DEBUG ]  Setting default value: [Ljava.lang.Byte;@310d6874
+2014-05-28 09:47:47  [ main:286 ] - [ DEBUG ]  Converting 'Byte[]' value '[Ljava.lang.Byte;@310d6874' to type 'Byte[]'
+2014-05-28 09:47:47  [ main:286 ] - [ DEBUG ]      No conversion required, value is already a Byte[]
+2014-05-28 09:47:47  [ main:286 ] - [ DEBUG ]  Setting default value: [Ljava.lang.Character;@6744b0d4
+2014-05-28 09:47:47  [ main:286 ] - [ DEBUG ]  Converting 'Character[]' value '[Ljava.lang.Character;@6744b0d4' to type 'Character[]'
+2014-05-28 09:47:47  [ main:287 ] - [ DEBUG ]      No conversion required, value is already a Character[]
+2014-05-28 09:47:47  [ main:287 ] - [ DEBUG ]  Setting default value: [Ljava.lang.Double;@4eb56343
+2014-05-28 09:47:47  [ main:287 ] - [ DEBUG ]  Converting 'Double[]' value '[Ljava.lang.Double;@4eb56343' to type 'Double[]'
+2014-05-28 09:47:47  [ main:287 ] - [ DEBUG ]      No conversion required, value is already a Double[]
+2014-05-28 09:47:47  [ main:287 ] - [ DEBUG ]  Setting default value: [Ljava.lang.Float;@6687ec13
+2014-05-28 09:47:47  [ main:287 ] - [ DEBUG ]  Converting 'Float[]' value '[Ljava.lang.Float;@6687ec13' to type 'Float[]'
+2014-05-28 09:47:47  [ main:287 ] - [ DEBUG ]      No conversion required, value is already a Float[]
+2014-05-28 09:47:47  [ main:287 ] - [ DEBUG ]  Setting default value: [Ljava.lang.Integer;@659c07fb
+2014-05-28 09:47:47  [ main:287 ] - [ DEBUG ]  Converting 'Integer[]' value '[Ljava.lang.Integer;@659c07fb' to type 'Integer[]'
+2014-05-28 09:47:47  [ main:288 ] - [ DEBUG ]      No conversion required, value is already a Integer[]
+2014-05-28 09:47:47  [ main:288 ] - [ DEBUG ]  Setting default value: [Ljava.lang.Long;@66d023da
+2014-05-28 09:47:47  [ main:288 ] - [ DEBUG ]  Converting 'Long[]' value '[Ljava.lang.Long;@66d023da' to type 'Long[]'
+2014-05-28 09:47:47  [ main:288 ] - [ DEBUG ]      No conversion required, value is already a Long[]
+2014-05-28 09:47:47  [ main:288 ] - [ DEBUG ]  Setting default value: [Ljava.lang.Short;@6ae1f1f1
+2014-05-28 09:47:47  [ main:288 ] - [ DEBUG ]  Converting 'Short[]' value '[Ljava.lang.Short;@6ae1f1f1' to type 'Short[]'
+2014-05-28 09:47:47  [ main:288 ] - [ DEBUG ]      No conversion required, value is already a Short[]
+2014-05-28 09:47:47  [ main:288 ] - [ DEBUG ]  Setting default value: [Ljava.lang.String;@17d33c09
+2014-05-28 09:47:47  [ main:288 ] - [ DEBUG ]  Converting 'String[]' value '[Ljava.lang.String;@17d33c09' to type 'String[]'
+2014-05-28 09:47:47  [ main:289 ] - [ DEBUG ]      No conversion required, value is already a String[]
+2014-05-28 09:47:47  [ main:289 ] - [ DEBUG ]  Setting default value: [Ljava.lang.Class;@2d0a7f17
+2014-05-28 09:47:47  [ main:289 ] - [ DEBUG ]  Converting 'Class[]' value '[Ljava.lang.Class;@2d0a7f17' to type 'Class[]'
+2014-05-28 09:47:47  [ main:289 ] - [ DEBUG ]      No conversion required, value is already a Class[]
+2014-05-28 09:47:47  [ main:289 ] - [ DEBUG ]  Setting default value: [Ljava.util.Date;@7ad38cd3
+2014-05-28 09:47:47  [ main:289 ] - [ DEBUG ]  Converting 'Date[]' value '[Ljava.util.Date;@7ad38cd3' to type 'Date[]'
+2014-05-28 09:47:47  [ main:289 ] - [ DEBUG ]      No conversion required, value is already a Date[]
+2014-05-28 09:47:47  [ main:289 ] - [ DEBUG ]  Setting default value: [Ljava.util.Calendar;@67940cc9
+2014-05-28 09:47:47  [ main:289 ] - [ DEBUG ]  Converting 'Calendar[]' value '[Ljava.util.Calendar;@67940cc9' to type 'Calendar[]'
+2014-05-28 09:47:47  [ main:290 ] - [ DEBUG ]      No conversion required, value is already a Calendar[]
+2014-05-28 09:47:47  [ main:290 ] - [ DEBUG ]  Setting default value: [Ljava.io.File;@5aeb7009
+2014-05-28 09:47:47  [ main:290 ] - [ DEBUG ]  Converting 'java.io.File[]' value '[Ljava.io.File;@5aeb7009' to type 'java.io.File[]'
+2014-05-28 09:47:47  [ main:290 ] - [ DEBUG ]      No conversion required, value is already a java.io.File[]
+2014-05-28 09:47:47  [ main:290 ] - [ DEBUG ]  Setting default value: [Ljava.sql.Date;@7bfa0f08
+2014-05-28 09:47:47  [ main:290 ] - [ DEBUG ]  Converting 'java.sql.Date[]' value '[Ljava.sql.Date;@7bfa0f08' to type 'java.sql.Date[]'
+2014-05-28 09:47:47  [ main:290 ] - [ DEBUG ]      No conversion required, value is already a java.sql.Date[]
+2014-05-28 09:47:47  [ main:290 ] - [ DEBUG ]  Setting default value: [Ljava.sql.Time;@35758ffa
+2014-05-28 09:47:47  [ main:290 ] - [ DEBUG ]  Converting 'java.sql.Time[]' value '[Ljava.sql.Time;@35758ffa' to type 'java.sql.Time[]'
+2014-05-28 09:47:47  [ main:291 ] - [ DEBUG ]      No conversion required, value is already a java.sql.Time[]
+2014-05-28 09:47:47  [ main:291 ] - [ DEBUG ]  Setting default value: [Ljava.sql.Timestamp;@217de52a
+2014-05-28 09:47:47  [ main:291 ] - [ DEBUG ]  Converting 'java.sql.Timestamp[]' value '[Ljava.sql.Timestamp;@217de52a' to type 'java.sql.Timestamp[]'
+2014-05-28 09:47:47  [ main:291 ] - [ DEBUG ]      No conversion required, value is already a java.sql.Timestamp[]
+2014-05-28 09:47:47  [ main:291 ] - [ DEBUG ]  Setting default value: [Ljava.net.URL;@42f40b16
+2014-05-28 09:47:47  [ main:291 ] - [ DEBUG ]  Converting 'java.net.URL[]' value '[Ljava.net.URL;@42f40b16' to type 'java.net.URL[]'
+2014-05-28 09:47:47  [ main:291 ] - [ DEBUG ]      No conversion required, value is already a java.net.URL[]
+2014-05-28 09:47:47  [ main:312 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@394003fc to phase prepare-send
+2014-05-28 09:47:47  [ main:312 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@394003fc to phase prepare-send
+2014-05-28 09:47:47  [ main:330 ] - [ DEBUG ]  Conduit '{http://127.0.0.1:8080}WebClient.http-conduit' has been (re)configured for plain http.
+2014-05-28 09:47:47  [ main:330 ] - [ DEBUG ]  No Trust Decider configured for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'
+2014-05-28 09:47:47  [ main:331 ] - [ DEBUG ]  No Auth Supplier configured for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'
+2014-05-28 09:47:47  [ main:331 ] - [ DEBUG ]  Conduit '{http://127.0.0.1:8080}WebClient.http-conduit' has been configured for plain http.
+2014-05-28 09:47:47  [ main:331 ] - [ DEBUG ]  registering incoming observer: org.apache.cxf.jaxrs.client.ClientMessageObserver@266c4c10
+2014-05-28 09:47:47  [ main:331 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.jaxrs.client.WebClient$BodyWriter@5a44a5e1 to phase write
+2014-05-28 09:47:47  [ main:332 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@ded0b93 was created. Current flow:
+  prepare-send [MessageSenderInterceptor]
+  write [BodyWriter]
+
+2014-05-28 09:47:47  [ main:332 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@394003fc
+2014-05-28 09:47:47  [ main:339 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor$MessageSenderEndingInterceptor@45890909 to phase prepare-send-ending
+2014-05-28 09:47:47  [ main:339 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@ded0b93 was modified. Current flow:
+  prepare-send [MessageSenderInterceptor]
+  write [BodyWriter]
+  prepare-send-ending [MessageSenderEndingInterceptor]
+
+2014-05-28 09:47:47  [ main:340 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.jaxrs.client.WebClient$BodyWriter@5a44a5e1
+2014-05-28 09:47:47  [ main:342 ] - [ ERROR ]  .No message body writer has been found for class : class pku.edu.cn.monitor.restclient.MetadataNode, ContentType : application/json.
+2014-05-28 09:47:47  [ main:343 ] - [ DEBUG ]  Invoking handleFault on interceptor org.apache.cxf.jaxrs.client.WebClient$BodyWriter@5a44a5e1
+2014-05-28 09:47:47  [ main:343 ] - [ DEBUG ]  Invoking handleFault on interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@394003fc
+2014-05-28 09:47:47  [ main:344 ] - [ WARN ]  Interceptor for {http://127.0.0.1:8080}WebClient has thrown exception, unwinding now
+org.apache.cxf.interceptor.Fault: .No message body writer has been found for class : class pku.edu.cn.monitor.restclient.MetadataNode, ContentType : application/json.
+	at org.apache.cxf.jaxrs.client.WebClient$BodyWriter.handleMessage(WebClient.java:939)
+	at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:263)
+	at org.apache.cxf.jaxrs.client.WebClient.doChainedInvocation(WebClient.java:840)
+	at org.apache.cxf.jaxrs.client.WebClient.doInvoke(WebClient.java:788)
+	at org.apache.cxf.jaxrs.client.WebClient.doInvoke(WebClient.java:749)
+	at org.apache.cxf.jaxrs.client.WebClient.invoke(WebClient.java:283)
+	at org.apache.cxf.jaxrs.client.WebClient.post(WebClient.java:292)
+	at pku.edu.cn.monitor.restclient.Client.restPost(Client.java:19)
+	at pku.edu.cn.monitor.restclient.Client.main(Client.java:30)
+Caused by: org.apache.cxf.jaxrs.client.ClientWebApplicationException: .No message body writer has been found for class : class pku.edu.cn.monitor.restclient.MetadataNode, ContentType : application/json.
+	at org.apache.cxf.jaxrs.client.AbstractClient.reportMessageHandlerProblem(AbstractClient.java:649)
+	at org.apache.cxf.jaxrs.client.AbstractClient.writeBody(AbstractClient.java:402)
+	at org.apache.cxf.jaxrs.client.WebClient$BodyWriter.handleMessage(WebClient.java:931)
+	... 8 more
+2014-05-28 09:48:55  [ main:0 ] - [ DEBUG ]  Using org.apache.cxf.common.logging.Log4jLogger for logging.
+2014-05-28 09:48:55  [ main:176 ] - [ DEBUG ]  Problem with creating the default provider org.apache.cxf.jaxrs.provider.json.JSONProvider: org.apache.cxf.jaxrs.provider.json.JSONProvider
+2014-05-28 09:48:55  [ main:204 ] - [ DEBUG ]  Problem with creating the default provider org.apache.cxf.jaxrs.provider.json.JSONProvider: org.apache.cxf.jaxrs.provider.json.JSONProvider
+2014-05-28 09:48:55  [ main:267 ] - [ DEBUG ]  Setting default value: false
+2014-05-28 09:48:55  [ main:267 ] - [ DEBUG ]  Converting 'Boolean' value 'false' to type 'Boolean'
+2014-05-28 09:48:55  [ main:267 ] - [ DEBUG ]      No conversion required, value is already a Boolean
+2014-05-28 09:48:55  [ main:270 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:48:55  [ main:270 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Byte'
+2014-05-28 09:48:55  [ main:270 ] - [ DEBUG ]      Converted to Byte value '0'
+2014-05-28 09:48:55  [ main:271 ] - [ DEBUG ]  Setting default value:  
+2014-05-28 09:48:55  [ main:271 ] - [ DEBUG ]  Converting 'Character' value ' ' to type 'Character'
+2014-05-28 09:48:55  [ main:271 ] - [ DEBUG ]      No conversion required, value is already a Character
+2014-05-28 09:48:55  [ main:271 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:48:55  [ main:272 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Double'
+2014-05-28 09:48:55  [ main:272 ] - [ DEBUG ]      Converted to Double value '0.0'
+2014-05-28 09:48:55  [ main:272 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:48:55  [ main:273 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Float'
+2014-05-28 09:48:55  [ main:274 ] - [ DEBUG ]      Converted to Float value '0.0'
+2014-05-28 09:48:55  [ main:274 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:48:55  [ main:274 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Integer'
+2014-05-28 09:48:55  [ main:274 ] - [ DEBUG ]      No conversion required, value is already a Integer
+2014-05-28 09:48:55  [ main:275 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:48:55  [ main:275 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Long'
+2014-05-28 09:48:55  [ main:275 ] - [ DEBUG ]      Converted to Long value '0'
+2014-05-28 09:48:55  [ main:276 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:48:55  [ main:276 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Short'
+2014-05-28 09:48:55  [ main:276 ] - [ DEBUG ]      Converted to Short value '0'
+2014-05-28 09:48:55  [ main:277 ] - [ DEBUG ]  Setting default value: 0.0
+2014-05-28 09:48:55  [ main:277 ] - [ DEBUG ]  Converting 'BigDecimal' value '0.0' to type 'BigDecimal'
+2014-05-28 09:48:55  [ main:277 ] - [ DEBUG ]      No conversion required, value is already a BigDecimal
+2014-05-28 09:48:55  [ main:277 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:48:55  [ main:278 ] - [ DEBUG ]  Converting 'BigInteger' value '0' to type 'BigInteger'
+2014-05-28 09:48:55  [ main:278 ] - [ DEBUG ]      No conversion required, value is already a BigInteger
+2014-05-28 09:48:55  [ main:278 ] - [ DEBUG ]  Setting default value: false
+2014-05-28 09:48:55  [ main:278 ] - [ DEBUG ]  Converting 'Boolean' value 'false' to type 'Boolean'
+2014-05-28 09:48:55  [ main:278 ] - [ DEBUG ]      No conversion required, value is already a Boolean
+2014-05-28 09:48:55  [ main:278 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:48:55  [ main:278 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Byte'
+2014-05-28 09:48:55  [ main:278 ] - [ DEBUG ]      Converted to Byte value '0'
+2014-05-28 09:48:55  [ main:279 ] - [ DEBUG ]  Setting default value:  
+2014-05-28 09:48:55  [ main:279 ] - [ DEBUG ]  Converting 'Character' value ' ' to type 'Character'
+2014-05-28 09:48:55  [ main:279 ] - [ DEBUG ]      No conversion required, value is already a Character
+2014-05-28 09:48:55  [ main:279 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:48:55  [ main:279 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Double'
+2014-05-28 09:48:55  [ main:279 ] - [ DEBUG ]      Converted to Double value '0.0'
+2014-05-28 09:48:55  [ main:279 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:48:55  [ main:279 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Float'
+2014-05-28 09:48:55  [ main:280 ] - [ DEBUG ]      Converted to Float value '0.0'
+2014-05-28 09:48:55  [ main:280 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:48:55  [ main:280 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Integer'
+2014-05-28 09:48:55  [ main:280 ] - [ DEBUG ]      No conversion required, value is already a Integer
+2014-05-28 09:48:55  [ main:280 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:48:55  [ main:280 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Long'
+2014-05-28 09:48:55  [ main:280 ] - [ DEBUG ]      Converted to Long value '0'
+2014-05-28 09:48:55  [ main:280 ] - [ DEBUG ]  Setting default value: 0
+2014-05-28 09:48:55  [ main:280 ] - [ DEBUG ]  Converting 'Integer' value '0' to type 'Short'
+2014-05-28 09:48:55  [ main:281 ] - [ DEBUG ]      Converted to Short value '0'
+2014-05-28 09:48:55  [ main:281 ] - [ DEBUG ]  Setting default value: 
+2014-05-28 09:48:55  [ main:281 ] - [ DEBUG ]  Converting 'String' value '' to type 'String'
+2014-05-28 09:48:55  [ main:286 ] - [ DEBUG ]  Setting default value: [Z@512a5253
+2014-05-28 09:48:55  [ main:287 ] - [ DEBUG ]  Converting 'boolean[]' value '[Z@512a5253' to type 'boolean[]'
+2014-05-28 09:48:55  [ main:287 ] - [ DEBUG ]      No conversion required, value is already a boolean[]
+2014-05-28 09:48:55  [ main:287 ] - [ DEBUG ]  Setting default value: [B@3182f0c6
+2014-05-28 09:48:55  [ main:287 ] - [ DEBUG ]  Converting 'byte[]' value '[B@3182f0c6' to type 'byte[]'
+2014-05-28 09:48:55  [ main:287 ] - [ DEBUG ]      No conversion required, value is already a byte[]
+2014-05-28 09:48:55  [ main:287 ] - [ DEBUG ]  Setting default value: [C@b8d708f
+2014-05-28 09:48:55  [ main:288 ] - [ DEBUG ]  Converting 'char[]' value '[C@b8d708f' to type 'char[]'
+2014-05-28 09:48:55  [ main:288 ] - [ DEBUG ]      No conversion required, value is already a char[]
+2014-05-28 09:48:55  [ main:288 ] - [ DEBUG ]  Setting default value: [D@72d8c235
+2014-05-28 09:48:55  [ main:288 ] - [ DEBUG ]  Converting 'double[]' value '[D@72d8c235' to type 'double[]'
+2014-05-28 09:48:55  [ main:288 ] - [ DEBUG ]      No conversion required, value is already a double[]
+2014-05-28 09:48:55  [ main:288 ] - [ DEBUG ]  Setting default value: [F@74b6607a
+2014-05-28 09:48:55  [ main:288 ] - [ DEBUG ]  Converting 'float[]' value '[F@74b6607a' to type 'float[]'
+2014-05-28 09:48:55  [ main:288 ] - [ DEBUG ]      No conversion required, value is already a float[]
+2014-05-28 09:48:55  [ main:289 ] - [ DEBUG ]  Setting default value: [I@71782572
+2014-05-28 09:48:55  [ main:289 ] - [ DEBUG ]  Converting 'int[]' value '[I@71782572' to type 'int[]'
+2014-05-28 09:48:55  [ main:289 ] - [ DEBUG ]      No conversion required, value is already a int[]
+2014-05-28 09:48:55  [ main:289 ] - [ DEBUG ]  Setting default value: [J@6e29991
+2014-05-28 09:48:55  [ main:289 ] - [ DEBUG ]  Converting 'long[]' value '[J@6e29991' to type 'long[]'
+2014-05-28 09:48:55  [ main:289 ] - [ DEBUG ]      No conversion required, value is already a long[]
+2014-05-28 09:48:55  [ main:289 ] - [ DEBUG ]  Setting default value: [S@6d0021f
+2014-05-28 09:48:55  [ main:289 ] - [ DEBUG ]  Converting 'short[]' value '[S@6d0021f' to type 'short[]'
+2014-05-28 09:48:55  [ main:290 ] - [ DEBUG ]      No conversion required, value is already a short[]
+2014-05-28 09:48:55  [ main:290 ] - [ DEBUG ]  Setting default value: [Ljava.math.BigDecimal;@423b44b7
+2014-05-28 09:48:55  [ main:290 ] - [ DEBUG ]  Converting 'BigDecimal[]' value '[Ljava.math.BigDecimal;@423b44b7' to type 'BigDecimal[]'
+2014-05-28 09:48:55  [ main:290 ] - [ DEBUG ]      No conversion required, value is already a BigDecimal[]
+2014-05-28 09:48:55  [ main:290 ] - [ DEBUG ]  Setting default value: [Ljava.math.BigInteger;@411c6c59
+2014-05-28 09:48:55  [ main:290 ] - [ DEBUG ]  Converting 'BigInteger[]' value '[Ljava.math.BigInteger;@411c6c59' to type 'BigInteger[]'
+2014-05-28 09:48:55  [ main:290 ] - [ DEBUG ]      No conversion required, value is already a BigInteger[]
+2014-05-28 09:48:55  [ main:290 ] - [ DEBUG ]  Setting default value: [Ljava.lang.Boolean;@310d6874
+2014-05-28 09:48:55  [ main:291 ] - [ DEBUG ]  Converting 'Boolean[]' value '[Ljava.lang.Boolean;@310d6874' to type 'Boolean[]'
+2014-05-28 09:48:55  [ main:291 ] - [ DEBUG ]      No conversion required, value is already a Boolean[]
+2014-05-28 09:48:55  [ main:291 ] - [ DEBUG ]  Setting default value: [Ljava.lang.Byte;@6744b0d4
+2014-05-28 09:48:55  [ main:291 ] - [ DEBUG ]  Converting 'Byte[]' value '[Ljava.lang.Byte;@6744b0d4' to type 'Byte[]'
+2014-05-28 09:48:55  [ main:291 ] - [ DEBUG ]      No conversion required, value is already a Byte[]
+2014-05-28 09:48:55  [ main:291 ] - [ DEBUG ]  Setting default value: [Ljava.lang.Character;@4eb56343
+2014-05-28 09:48:55  [ main:291 ] - [ DEBUG ]  Converting 'Character[]' value '[Ljava.lang.Character;@4eb56343' to type 'Character[]'
+2014-05-28 09:48:55  [ main:291 ] - [ DEBUG ]      No conversion required, value is already a Character[]
+2014-05-28 09:48:55  [ main:291 ] - [ DEBUG ]  Setting default value: [Ljava.lang.Double;@6687ec13
+2014-05-28 09:48:55  [ main:292 ] - [ DEBUG ]  Converting 'Double[]' value '[Ljava.lang.Double;@6687ec13' to type 'Double[]'
+2014-05-28 09:48:55  [ main:292 ] - [ DEBUG ]      No conversion required, value is already a Double[]
+2014-05-28 09:48:55  [ main:292 ] - [ DEBUG ]  Setting default value: [Ljava.lang.Float;@659c07fb
+2014-05-28 09:48:55  [ main:292 ] - [ DEBUG ]  Converting 'Float[]' value '[Ljava.lang.Float;@659c07fb' to type 'Float[]'
+2014-05-28 09:48:55  [ main:292 ] - [ DEBUG ]      No conversion required, value is already a Float[]
+2014-05-28 09:48:55  [ main:292 ] - [ DEBUG ]  Setting default value: [Ljava.lang.Integer;@66d023da
+2014-05-28 09:48:55  [ main:292 ] - [ DEBUG ]  Converting 'Integer[]' value '[Ljava.lang.Integer;@66d023da' to type 'Integer[]'
+2014-05-28 09:48:55  [ main:292 ] - [ DEBUG ]      No conversion required, value is already a Integer[]
+2014-05-28 09:48:55  [ main:292 ] - [ DEBUG ]  Setting default value: [Ljava.lang.Long;@6ae1f1f1
+2014-05-28 09:48:55  [ main:293 ] - [ DEBUG ]  Converting 'Long[]' value '[Ljava.lang.Long;@6ae1f1f1' to type 'Long[]'
+2014-05-28 09:48:55  [ main:293 ] - [ DEBUG ]      No conversion required, value is already a Long[]
+2014-05-28 09:48:55  [ main:293 ] - [ DEBUG ]  Setting default value: [Ljava.lang.Short;@17d33c09
+2014-05-28 09:48:55  [ main:293 ] - [ DEBUG ]  Converting 'Short[]' value '[Ljava.lang.Short;@17d33c09' to type 'Short[]'
+2014-05-28 09:48:55  [ main:293 ] - [ DEBUG ]      No conversion required, value is already a Short[]
+2014-05-28 09:48:55  [ main:293 ] - [ DEBUG ]  Setting default value: [Ljava.lang.String;@2d0a7f17
+2014-05-28 09:48:55  [ main:293 ] - [ DEBUG ]  Converting 'String[]' value '[Ljava.lang.String;@2d0a7f17' to type 'String[]'
+2014-05-28 09:48:55  [ main:293 ] - [ DEBUG ]      No conversion required, value is already a String[]
+2014-05-28 09:48:55  [ main:293 ] - [ DEBUG ]  Setting default value: [Ljava.lang.Class;@c1dd61b
+2014-05-28 09:48:55  [ main:294 ] - [ DEBUG ]  Converting 'Class[]' value '[Ljava.lang.Class;@c1dd61b' to type 'Class[]'
+2014-05-28 09:48:55  [ main:294 ] - [ DEBUG ]      No conversion required, value is already a Class[]
+2014-05-28 09:48:55  [ main:294 ] - [ DEBUG ]  Setting default value: [Ljava.util.Date;@56c2afa4
+2014-05-28 09:48:55  [ main:294 ] - [ DEBUG ]  Converting 'Date[]' value '[Ljava.util.Date;@56c2afa4' to type 'Date[]'
+2014-05-28 09:48:55  [ main:294 ] - [ DEBUG ]      No conversion required, value is already a Date[]
+2014-05-28 09:48:55  [ main:294 ] - [ DEBUG ]  Setting default value: [Ljava.util.Calendar;@28d3953f
+2014-05-28 09:48:55  [ main:294 ] - [ DEBUG ]  Converting 'Calendar[]' value '[Ljava.util.Calendar;@28d3953f' to type 'Calendar[]'
+2014-05-28 09:48:55  [ main:294 ] - [ DEBUG ]      No conversion required, value is already a Calendar[]
+2014-05-28 09:48:55  [ main:295 ] - [ DEBUG ]  Setting default value: [Ljava.io.File;@17088d81
+2014-05-28 09:48:55  [ main:295 ] - [ DEBUG ]  Converting 'java.io.File[]' value '[Ljava.io.File;@17088d81' to type 'java.io.File[]'
+2014-05-28 09:48:55  [ main:295 ] - [ DEBUG ]      No conversion required, value is already a java.io.File[]
+2014-05-28 09:48:55  [ main:295 ] - [ DEBUG ]  Setting default value: [Ljava.sql.Date;@5df115ce
+2014-05-28 09:48:55  [ main:295 ] - [ DEBUG ]  Converting 'java.sql.Date[]' value '[Ljava.sql.Date;@5df115ce' to type 'java.sql.Date[]'
+2014-05-28 09:48:55  [ main:295 ] - [ DEBUG ]      No conversion required, value is already a java.sql.Date[]
+2014-05-28 09:48:55  [ main:295 ] - [ DEBUG ]  Setting default value: [Ljava.sql.Time;@393f8181
+2014-05-28 09:48:55  [ main:295 ] - [ DEBUG ]  Converting 'java.sql.Time[]' value '[Ljava.sql.Time;@393f8181' to type 'java.sql.Time[]'
+2014-05-28 09:48:55  [ main:295 ] - [ DEBUG ]      No conversion required, value is already a java.sql.Time[]
+2014-05-28 09:48:55  [ main:295 ] - [ DEBUG ]  Setting default value: [Ljava.sql.Timestamp;@50503993
+2014-05-28 09:48:55  [ main:296 ] - [ DEBUG ]  Converting 'java.sql.Timestamp[]' value '[Ljava.sql.Timestamp;@50503993' to type 'java.sql.Timestamp[]'
+2014-05-28 09:48:55  [ main:296 ] - [ DEBUG ]      No conversion required, value is already a java.sql.Timestamp[]
+2014-05-28 09:48:55  [ main:296 ] - [ DEBUG ]  Setting default value: [Ljava.net.URL;@2403f3b1
+2014-05-28 09:48:55  [ main:296 ] - [ DEBUG ]  Converting 'java.net.URL[]' value '[Ljava.net.URL;@2403f3b1' to type 'java.net.URL[]'
+2014-05-28 09:48:55  [ main:296 ] - [ DEBUG ]      No conversion required, value is already a java.net.URL[]
+2014-05-28 09:48:55  [ main:317 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@19c5b2c1 to phase prepare-send
+2014-05-28 09:48:55  [ main:317 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@19c5b2c1 to phase prepare-send
+2014-05-28 09:48:55  [ main:335 ] - [ DEBUG ]  Conduit '{http://127.0.0.1:8080}WebClient.http-conduit' has been (re)configured for plain http.
+2014-05-28 09:48:55  [ main:336 ] - [ DEBUG ]  No Trust Decider configured for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'
+2014-05-28 09:48:55  [ main:336 ] - [ DEBUG ]  No Auth Supplier configured for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'
+2014-05-28 09:48:55  [ main:336 ] - [ DEBUG ]  Conduit '{http://127.0.0.1:8080}WebClient.http-conduit' has been configured for plain http.
+2014-05-28 09:48:55  [ main:336 ] - [ DEBUG ]  registering incoming observer: org.apache.cxf.jaxrs.client.ClientMessageObserver@ff5c225
+2014-05-28 09:48:55  [ main:337 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.jaxrs.client.WebClient$BodyWriter@50e68513 to phase write
+2014-05-28 09:48:55  [ main:337 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@4592e709 was created. Current flow:
+  prepare-send [MessageSenderInterceptor]
+  write [BodyWriter]
+
+2014-05-28 09:48:55  [ main:338 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@19c5b2c1
+2014-05-28 09:48:55  [ main:345 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor$MessageSenderEndingInterceptor@27b05189 to phase prepare-send-ending
+2014-05-28 09:48:55  [ main:345 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@4592e709 was modified. Current flow:
+  prepare-send [MessageSenderInterceptor]
+  write [BodyWriter]
+  prepare-send-ending [MessageSenderEndingInterceptor]
+
+2014-05-28 09:48:55  [ main:345 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.jaxrs.client.WebClient$BodyWriter@50e68513
+2014-05-28 09:48:55  [ main:347 ] - [ ERROR ]  .No message body writer has been found for class : class pku.edu.cn.monitor.restclient.MetadataNode, ContentType : application/json.
+2014-05-28 09:48:55  [ main:348 ] - [ DEBUG ]  Invoking handleFault on interceptor org.apache.cxf.jaxrs.client.WebClient$BodyWriter@50e68513
+2014-05-28 09:48:55  [ main:348 ] - [ DEBUG ]  Invoking handleFault on interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@19c5b2c1
+2014-05-28 09:48:55  [ main:349 ] - [ WARN ]  Interceptor for {http://127.0.0.1:8080}WebClient has thrown exception, unwinding now
+org.apache.cxf.interceptor.Fault: .No message body writer has been found for class : class pku.edu.cn.monitor.restclient.MetadataNode, ContentType : application/json.
+	at org.apache.cxf.jaxrs.client.WebClient$BodyWriter.handleMessage(WebClient.java:939)
+	at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:263)
+	at org.apache.cxf.jaxrs.client.WebClient.doChainedInvocation(WebClient.java:840)
+	at org.apache.cxf.jaxrs.client.WebClient.doInvoke(WebClient.java:788)
+	at org.apache.cxf.jaxrs.client.WebClient.doInvoke(WebClient.java:749)
+	at org.apache.cxf.jaxrs.client.WebClient.invoke(WebClient.java:283)
+	at org.apache.cxf.jaxrs.client.WebClient.post(WebClient.java:292)
+	at pku.edu.cn.monitor.restclient.Client.restPost(Client.java:19)
+	at pku.edu.cn.monitor.restclient.Client.main(Client.java:30)
+Caused by: org.apache.cxf.jaxrs.client.ClientWebApplicationException: .No message body writer has been found for class : class pku.edu.cn.monitor.restclient.MetadataNode, ContentType : application/json.
+	at org.apache.cxf.jaxrs.client.AbstractClient.reportMessageHandlerProblem(AbstractClient.java:649)
+	at org.apache.cxf.jaxrs.client.AbstractClient.writeBody(AbstractClient.java:402)
+	at org.apache.cxf.jaxrs.client.WebClient$BodyWriter.handleMessage(WebClient.java:931)
+	... 8 more
+2014-05-28 09:57:34  [ main:307 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@1980f3a4 to phase prepare-send
+2014-05-28 09:57:34  [ main:309 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@1980f3a4 to phase prepare-send
+2014-05-28 09:57:34  [ main:327 ] - [ DEBUG ]  Conduit '{http://127.0.0.1:8080}WebClient.http-conduit' has been (re)configured for plain http.
+2014-05-28 09:57:34  [ main:328 ] - [ DEBUG ]  No Trust Decider configured for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'
+2014-05-28 09:57:34  [ main:328 ] - [ DEBUG ]  No Auth Supplier configured for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'
+2014-05-28 09:57:34  [ main:328 ] - [ DEBUG ]  Conduit '{http://127.0.0.1:8080}WebClient.http-conduit' has been configured for plain http.
+2014-05-28 09:57:34  [ main:328 ] - [ DEBUG ]  registering incoming observer: org.apache.cxf.jaxrs.client.ClientMessageObserver@2505ef53
+2014-05-28 09:57:34  [ main:329 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.jaxrs.client.WebClient$BodyWriter@6edb35f8 to phase write
+2014-05-28 09:57:34  [ main:329 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@434d3d4f was created. Current flow:
+  prepare-send [MessageSenderInterceptor]
+  write [BodyWriter]
+
+2014-05-28 09:57:34  [ main:329 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@1980f3a4
+2014-05-28 09:57:34  [ main:336 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor$MessageSenderEndingInterceptor@3dab52d8 to phase prepare-send-ending
+2014-05-28 09:57:34  [ main:337 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@434d3d4f was modified. Current flow:
+  prepare-send [MessageSenderInterceptor]
+  write [BodyWriter]
+  prepare-send-ending [MessageSenderEndingInterceptor]
+
+2014-05-28 09:57:34  [ main:337 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.jaxrs.client.WebClient$BodyWriter@6edb35f8
+2014-05-28 09:57:34  [ main:554 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.interceptor.MessageSenderInterceptor$MessageSenderEndingInterceptor@3dab52d8
+2014-05-28 09:57:34  [ main:556 ] - [ DEBUG ]  Accept: application/json
+2014-05-28 09:57:34  [ main:556 ] - [ DEBUG ]  Content-Type: application/json
+2014-05-28 09:57:34  [ main:558 ] - [ DEBUG ]  No Trust Decider for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'. An afirmative Trust Decision is assumed.
+2014-05-28 09:57:34  [ main:565 ] - [ DEBUG ]  Sending POST Message with Headers to http://127.0.0.1:8080/monitor/api/v1/network/addnode Conduit :{http://127.0.0.1:8080}WebClient.http-conduit
+
+2014-05-28 09:57:35  [ main:779 ] - [ DEBUG ]  Response Code: 200 Conduit: {http://127.0.0.1:8080}WebClient.http-conduit
+2014-05-28 09:57:35  [ main:779 ] - [ DEBUG ]  Content length: 4
+2014-05-28 09:57:35  [ main:779 ] - [ DEBUG ]  Header fields: 
+    null: [HTTP/1.1 200 OK]
+    Date: [Wed, 28 May 2014 01:57:35 GMT]
+    Content-Length: [4]
+    Content-Type: [application/json]
+    Server: [Apache-Coyote/1.1]
+
+2014-05-28 09:57:35  [ main:780 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@52b4e7ec was created. Current flow:
+
+2014-05-28 10:17:20  [ main:264 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@2e774999 to phase prepare-send
+2014-05-28 10:17:20  [ main:266 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@2e774999 to phase prepare-send
+2014-05-28 10:17:20  [ main:282 ] - [ DEBUG ]  Conduit '{http://127.0.0.1:8080}WebClient.http-conduit' has been (re)configured for plain http.
+2014-05-28 10:17:20  [ main:282 ] - [ DEBUG ]  No Trust Decider configured for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'
+2014-05-28 10:17:20  [ main:282 ] - [ DEBUG ]  No Auth Supplier configured for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'
+2014-05-28 10:17:20  [ main:283 ] - [ DEBUG ]  Conduit '{http://127.0.0.1:8080}WebClient.http-conduit' has been configured for plain http.
+2014-05-28 10:17:20  [ main:283 ] - [ DEBUG ]  registering incoming observer: org.apache.cxf.jaxrs.client.ClientMessageObserver@368104c
+2014-05-28 10:17:20  [ main:283 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.jaxrs.client.WebClient$BodyWriter@2f223554 to phase write
+2014-05-28 10:17:20  [ main:284 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@6e6d3374 was created. Current flow:
+  prepare-send [MessageSenderInterceptor]
+  write [BodyWriter]
+
+2014-05-28 10:17:20  [ main:284 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@2e774999
+2014-05-28 10:17:20  [ main:290 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor$MessageSenderEndingInterceptor@146816b7 to phase prepare-send-ending
+2014-05-28 10:17:20  [ main:290 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@6e6d3374 was modified. Current flow:
+  prepare-send [MessageSenderInterceptor]
+  write [BodyWriter]
+  prepare-send-ending [MessageSenderEndingInterceptor]
+
+2014-05-28 10:17:20  [ main:290 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.jaxrs.client.WebClient$BodyWriter@2f223554
+2014-05-28 10:17:20  [ main:300 ] - [ ERROR ]  .No message body writer has been found for class : class pku.edu.cn.monitor.restclient.MetadataNode, ContentType : application/json.
+2014-05-28 10:17:20  [ main:301 ] - [ DEBUG ]  Invoking handleFault on interceptor org.apache.cxf.jaxrs.client.WebClient$BodyWriter@2f223554
+2014-05-28 10:17:20  [ main:301 ] - [ DEBUG ]  Invoking handleFault on interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@2e774999
+2014-05-28 10:17:20  [ main:304 ] - [ WARN ]  Interceptor for {http://127.0.0.1:8080}WebClient has thrown exception, unwinding now
+org.apache.cxf.interceptor.Fault: .No message body writer has been found for class : class pku.edu.cn.monitor.restclient.MetadataNode, ContentType : application/json.
+	at org.apache.cxf.jaxrs.client.WebClient$BodyWriter.handleMessage(WebClient.java:893)
+	at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:262)
+	at org.apache.cxf.jaxrs.client.WebClient.doChainedInvocation(WebClient.java:795)
+	at org.apache.cxf.jaxrs.client.WebClient.doInvoke(WebClient.java:743)
+	at org.apache.cxf.jaxrs.client.WebClient.doInvoke(WebClient.java:717)
+	at org.apache.cxf.jaxrs.client.WebClient.invoke(WebClient.java:262)
+	at org.apache.cxf.jaxrs.client.WebClient.post(WebClient.java:271)
+	at pku.edu.cn.monitor.restclient.Client.restPost(Client.java:22)
+	at pku.edu.cn.monitor.restclient.Client.main(Client.java:33)
+Caused by: org.apache.cxf.jaxrs.client.ClientWebApplicationException: .No message body writer has been found for class : class pku.edu.cn.monitor.restclient.MetadataNode, ContentType : application/json.
+	at org.apache.cxf.jaxrs.client.AbstractClient.reportMessageHandlerProblem(AbstractClient.java:630)
+	at org.apache.cxf.jaxrs.client.AbstractClient.writeBody(AbstractClient.java:400)
+	at org.apache.cxf.jaxrs.client.WebClient$BodyWriter.handleMessage(WebClient.java:885)
+	... 8 more
+2014-05-28 10:18:05  [ main:272 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@16c8cb41 to phase prepare-send
+2014-05-28 10:18:05  [ main:274 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@16c8cb41 to phase prepare-send
+2014-05-28 10:18:05  [ main:290 ] - [ DEBUG ]  Conduit '{http://127.0.0.1:8080}WebClient.http-conduit' has been (re)configured for plain http.
+2014-05-28 10:18:05  [ main:291 ] - [ DEBUG ]  No Trust Decider configured for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'
+2014-05-28 10:18:05  [ main:291 ] - [ DEBUG ]  No Auth Supplier configured for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'
+2014-05-28 10:18:05  [ main:291 ] - [ DEBUG ]  Conduit '{http://127.0.0.1:8080}WebClient.http-conduit' has been configured for plain http.
+2014-05-28 10:18:05  [ main:291 ] - [ DEBUG ]  registering incoming observer: org.apache.cxf.jaxrs.client.ClientMessageObserver@2db18f22
+2014-05-28 10:18:05  [ main:292 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.jaxrs.client.WebClient$BodyWriter@4dd629db to phase write
+2014-05-28 10:18:05  [ main:293 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@2f223554 was created. Current flow:
+  prepare-send [MessageSenderInterceptor]
+  write [BodyWriter]
+
+2014-05-28 10:18:05  [ main:293 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@16c8cb41
+2014-05-28 10:18:05  [ main:299 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor$MessageSenderEndingInterceptor@4d1650df to phase prepare-send-ending
+2014-05-28 10:18:05  [ main:299 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@2f223554 was modified. Current flow:
+  prepare-send [MessageSenderInterceptor]
+  write [BodyWriter]
+  prepare-send-ending [MessageSenderEndingInterceptor]
+
+2014-05-28 10:18:05  [ main:299 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.jaxrs.client.WebClient$BodyWriter@4dd629db
+2014-05-28 10:18:05  [ main:469 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.interceptor.MessageSenderInterceptor$MessageSenderEndingInterceptor@4d1650df
+2014-05-28 10:18:05  [ main:471 ] - [ DEBUG ]  Accept: application/json
+2014-05-28 10:18:05  [ main:471 ] - [ DEBUG ]  Content-Type: application/json
+2014-05-28 10:18:05  [ main:474 ] - [ DEBUG ]  No Trust Decider for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'. An afirmative Trust Decision is assumed.
+2014-05-28 10:18:05  [ main:480 ] - [ DEBUG ]  Sending POST Message with Headers to http://127.0.0.1:8080/monitor/api/v1/network/addnode Conduit :{http://127.0.0.1:8080}WebClient.http-conduit
+
+2014-05-28 10:18:05  [ main:535 ] - [ DEBUG ]  Response Code: 415 Conduit: {http://127.0.0.1:8080}WebClient.http-conduit
+2014-05-28 10:18:05  [ main:536 ] - [ DEBUG ]  Content length: 0
+2014-05-28 10:18:05  [ main:536 ] - [ DEBUG ]  Header fields: 
+    null: [HTTP/1.1 415 Unsupported Media Type]
+    Date: [Wed, 28 May 2014 02:18:05 GMT]
+    Content-Length: [0]
+    Server: [Apache-Coyote/1.1]
+
+2014-05-28 10:18:05  [ main:537 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@5098bb1a was created. Current flow:
+
+2014-05-28 10:18:43  [ main:262 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@75724060 to phase prepare-send
+2014-05-28 10:18:43  [ main:264 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@75724060 to phase prepare-send
+2014-05-28 10:18:43  [ main:279 ] - [ DEBUG ]  Conduit '{http://127.0.0.1:8080}WebClient.http-conduit' has been (re)configured for plain http.
+2014-05-28 10:18:43  [ main:280 ] - [ DEBUG ]  No Trust Decider configured for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'
+2014-05-28 10:18:43  [ main:280 ] - [ DEBUG ]  No Auth Supplier configured for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'
+2014-05-28 10:18:43  [ main:280 ] - [ DEBUG ]  Conduit '{http://127.0.0.1:8080}WebClient.http-conduit' has been configured for plain http.
+2014-05-28 10:18:43  [ main:280 ] - [ DEBUG ]  registering incoming observer: org.apache.cxf.jaxrs.client.ClientMessageObserver@3b81e8ba
+2014-05-28 10:18:43  [ main:281 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.jaxrs.client.WebClient$BodyWriter@2505ef53 to phase write
+2014-05-28 10:18:43  [ main:281 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@327ceec1 was created. Current flow:
+  prepare-send [MessageSenderInterceptor]
+  write [BodyWriter]
+
+2014-05-28 10:18:43  [ main:282 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@75724060
+2014-05-28 10:18:43  [ main:287 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor$MessageSenderEndingInterceptor@7fe8bbae to phase prepare-send-ending
+2014-05-28 10:18:43  [ main:287 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@327ceec1 was modified. Current flow:
+  prepare-send [MessageSenderInterceptor]
+  write [BodyWriter]
+  prepare-send-ending [MessageSenderEndingInterceptor]
+
+2014-05-28 10:18:43  [ main:288 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.jaxrs.client.WebClient$BodyWriter@2505ef53
+2014-05-28 10:18:43  [ main:454 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.interceptor.MessageSenderInterceptor$MessageSenderEndingInterceptor@7fe8bbae
+2014-05-28 10:18:43  [ main:455 ] - [ DEBUG ]  Accept: application/json
+2014-05-28 10:18:43  [ main:455 ] - [ DEBUG ]  Content-Type: application/json
+2014-05-28 10:18:43  [ main:458 ] - [ DEBUG ]  No Trust Decider for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'. An afirmative Trust Decision is assumed.
+2014-05-28 10:18:43  [ main:465 ] - [ DEBUG ]  Sending POST Message with Headers to http://127.0.0.1:8080/monitor/api/v1/network/addnode Conduit :{http://127.0.0.1:8080}WebClient.http-conduit
+
+2014-05-28 10:18:43  [ main:646 ] - [ DEBUG ]  Response Code: 200 Conduit: {http://127.0.0.1:8080}WebClient.http-conduit
+2014-05-28 10:18:43  [ main:646 ] - [ DEBUG ]  Content length: 4
+2014-05-28 10:18:43  [ main:646 ] - [ DEBUG ]  Header fields: 
+    null: [HTTP/1.1 200 OK]
+    Date: [Wed, 28 May 2014 02:18:43 GMT]
+    Content-Length: [4]
+    Content-Type: [application/json]
+    Server: [Apache-Coyote/1.1]
+
+2014-05-28 10:18:43  [ main:647 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@2458117b was created. Current flow:
+
+2014-05-28 10:20:46  [ main:270 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@75724060 to phase prepare-send
+2014-05-28 10:20:46  [ main:272 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@75724060 to phase prepare-send
+2014-05-28 10:20:46  [ main:289 ] - [ DEBUG ]  Conduit '{http://127.0.0.1:8080}WebClient.http-conduit' has been (re)configured for plain http.
+2014-05-28 10:20:46  [ main:289 ] - [ DEBUG ]  No Trust Decider configured for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'
+2014-05-28 10:20:46  [ main:289 ] - [ DEBUG ]  No Auth Supplier configured for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'
+2014-05-28 10:20:46  [ main:289 ] - [ DEBUG ]  Conduit '{http://127.0.0.1:8080}WebClient.http-conduit' has been configured for plain http.
+2014-05-28 10:20:46  [ main:290 ] - [ DEBUG ]  registering incoming observer: org.apache.cxf.jaxrs.client.ClientMessageObserver@3b81e8ba
+2014-05-28 10:20:46  [ main:290 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@770fd005 was created. Current flow:
+  prepare-send [MessageSenderInterceptor]
+
+2014-05-28 10:20:46  [ main:291 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@75724060
+2014-05-28 10:20:46  [ main:297 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor$MessageSenderEndingInterceptor@170ae842 to phase prepare-send-ending
+2014-05-28 10:20:46  [ main:297 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@770fd005 was modified. Current flow:
+  prepare-send [MessageSenderInterceptor]
+  prepare-send-ending [MessageSenderEndingInterceptor]
+
+2014-05-28 10:20:46  [ main:297 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.interceptor.MessageSenderInterceptor$MessageSenderEndingInterceptor@170ae842
+2014-05-28 10:20:46  [ main:299 ] - [ DEBUG ]  Accept: application/json
+2014-05-28 10:20:46  [ main:299 ] - [ DEBUG ]  Content-Type: application/json
+2014-05-28 10:20:46  [ main:300 ] - [ DEBUG ]  No Trust Decider for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'. An afirmative Trust Decision is assumed.
+2014-05-28 10:20:46  [ main:351 ] - [ DEBUG ]  Response Code: 200 Conduit: {http://127.0.0.1:8080}WebClient.http-conduit
+2014-05-28 10:20:46  [ main:353 ] - [ DEBUG ]  Content length: 4
+2014-05-28 10:20:46  [ main:353 ] - [ DEBUG ]  Header fields: 
+    null: [HTTP/1.1 200 OK]
+    Date: [Wed, 28 May 2014 02:20:46 GMT]
+    Content-Length: [4]
+    Content-Type: [application/json]
+    Server: [Apache-Coyote/1.1]
+
+2014-05-28 10:20:46  [ main:354 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@394f8e42 was created. Current flow:
+
+2014-05-28 10:21:05  [ main:268 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@280b532e to phase prepare-send
+2014-05-28 10:21:05  [ main:270 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@280b532e to phase prepare-send
+2014-05-28 10:21:05  [ main:286 ] - [ DEBUG ]  Conduit '{http://127.0.0.1:8080}WebClient.http-conduit' has been (re)configured for plain http.
+2014-05-28 10:21:05  [ main:286 ] - [ DEBUG ]  No Trust Decider configured for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'
+2014-05-28 10:21:05  [ main:287 ] - [ DEBUG ]  No Auth Supplier configured for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'
+2014-05-28 10:21:05  [ main:287 ] - [ DEBUG ]  Conduit '{http://127.0.0.1:8080}WebClient.http-conduit' has been configured for plain http.
+2014-05-28 10:21:05  [ main:287 ] - [ DEBUG ]  registering incoming observer: org.apache.cxf.jaxrs.client.ClientMessageObserver@770fd005
+2014-05-28 10:21:05  [ main:288 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@1ae9ba8 was created. Current flow:
+  prepare-send [MessageSenderInterceptor]
+
+2014-05-28 10:21:05  [ main:288 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@280b532e
+2014-05-28 10:21:05  [ main:294 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor$MessageSenderEndingInterceptor@78e54643 to phase prepare-send-ending
+2014-05-28 10:21:05  [ main:294 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@1ae9ba8 was modified. Current flow:
+  prepare-send [MessageSenderInterceptor]
+  prepare-send-ending [MessageSenderEndingInterceptor]
+
+2014-05-28 10:21:05  [ main:295 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.interceptor.MessageSenderInterceptor$MessageSenderEndingInterceptor@78e54643
+2014-05-28 10:21:05  [ main:296 ] - [ DEBUG ]  Accept: application/json
+2014-05-28 10:21:05  [ main:296 ] - [ DEBUG ]  Content-Type: application/json
+2014-05-28 10:21:05  [ main:298 ] - [ DEBUG ]  No Trust Decider for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'. An afirmative Trust Decision is assumed.
+2014-05-28 10:21:05  [ main:308 ] - [ DEBUG ]  Response Code: 200 Conduit: {http://127.0.0.1:8080}WebClient.http-conduit
+2014-05-28 10:21:05  [ main:310 ] - [ DEBUG ]  Content length: 4
+2014-05-28 10:21:05  [ main:310 ] - [ DEBUG ]  Header fields: 
+    null: [HTTP/1.1 200 OK]
+    Date: [Wed, 28 May 2014 02:21:05 GMT]
+    Content-Length: [4]
+    Content-Type: [application/json]
+    Server: [Apache-Coyote/1.1]
+
+2014-05-28 10:21:05  [ main:311 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@1f63d05e was created. Current flow:
+

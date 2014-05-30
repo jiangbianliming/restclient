@@ -1,0 +1,340 @@
+2014-05-29 19:19:40  [ main:397 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@e9cad1d to phase prepare-send
+2014-05-29 19:19:40  [ main:400 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@e9cad1d to phase prepare-send
+2014-05-29 19:19:40  [ main:444 ] - [ DEBUG ]  Conduit '{http://127.0.0.1:8080}WebClient.http-conduit' has been (re)configured for plain http.
+2014-05-29 19:19:40  [ main:444 ] - [ DEBUG ]  No Trust Decider configured for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'
+2014-05-29 19:19:40  [ main:444 ] - [ DEBUG ]  No Auth Supplier configured for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'
+2014-05-29 19:19:40  [ main:444 ] - [ DEBUG ]  Conduit '{http://127.0.0.1:8080}WebClient.http-conduit' has been configured for plain http.
+2014-05-29 19:19:40  [ main:445 ] - [ DEBUG ]  registering incoming observer: org.apache.cxf.jaxrs.client.ClientMessageObserver@18b0af83
+2014-05-29 19:19:40  [ main:445 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.jaxrs.client.WebClient$BodyWriter@2628eb36 to phase write
+2014-05-29 19:19:40  [ main:446 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@1be2bcc8 was created. Current flow:
+  prepare-send [MessageSenderInterceptor]
+  write [BodyWriter]
+
+2014-05-29 19:19:40  [ main:446 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@e9cad1d
+2014-05-29 19:19:40  [ main:464 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor$MessageSenderEndingInterceptor@6f9e305d to phase prepare-send-ending
+2014-05-29 19:19:40  [ main:465 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@1be2bcc8 was modified. Current flow:
+  prepare-send [MessageSenderInterceptor]
+  write [BodyWriter]
+  prepare-send-ending [MessageSenderEndingInterceptor]
+
+2014-05-29 19:19:40  [ main:465 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.jaxrs.client.WebClient$BodyWriter@2628eb36
+2014-05-29 19:19:40  [ main:664 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.interceptor.MessageSenderInterceptor$MessageSenderEndingInterceptor@6f9e305d
+2014-05-29 19:19:40  [ main:666 ] - [ DEBUG ]  Accept: application/json
+2014-05-29 19:19:40  [ main:666 ] - [ DEBUG ]  Authorization: Basic Z2NrczpnY2tz
+2014-05-29 19:19:40  [ main:667 ] - [ DEBUG ]  Content-Type: application/json
+2014-05-29 19:19:40  [ main:669 ] - [ DEBUG ]  No Trust Decider for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'. An afirmative Trust Decision is assumed.
+2014-05-29 19:19:40  [ main:697 ] - [ DEBUG ]  Sending POST Message with Headers to http://127.0.0.1:8080/gcks.video/api/v1/video/medias Conduit :{http://127.0.0.1:8080}WebClient.http-conduit
+
+2014-05-29 19:19:41  [ main:860 ] - [ DEBUG ]  Response Code: 200 Conduit: {http://127.0.0.1:8080}WebClient.http-conduit
+2014-05-29 19:19:41  [ main:860 ] - [ DEBUG ]  Content length: 4
+2014-05-29 19:19:41  [ main:860 ] - [ DEBUG ]  Header fields: 
+    null: [HTTP/1.1 200 OK]
+    Date: [Thu, 29 May 2014 11:19:41 GMT]
+    Content-Length: [4]
+    Content-Type: [application/json]
+    Server: [Apache-Coyote/1.1]
+
+2014-05-29 19:19:41  [ main:861 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@3e6b6f6b was created. Current flow:
+
+2014-05-29 19:21:39  [ main:268 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@3c066c23 to phase prepare-send
+2014-05-29 19:21:39  [ main:270 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@3c066c23 to phase prepare-send
+2014-05-29 19:21:39  [ main:285 ] - [ DEBUG ]  Conduit '{http://127.0.0.1:8080}WebClient.http-conduit' has been (re)configured for plain http.
+2014-05-29 19:21:39  [ main:286 ] - [ DEBUG ]  No Trust Decider configured for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'
+2014-05-29 19:21:39  [ main:286 ] - [ DEBUG ]  No Auth Supplier configured for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'
+2014-05-29 19:21:39  [ main:286 ] - [ DEBUG ]  Conduit '{http://127.0.0.1:8080}WebClient.http-conduit' has been configured for plain http.
+2014-05-29 19:21:39  [ main:286 ] - [ DEBUG ]  registering incoming observer: org.apache.cxf.jaxrs.client.ClientMessageObserver@2628eb36
+2014-05-29 19:21:39  [ main:287 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.jaxrs.client.WebClient$BodyWriter@486ba2ed to phase write
+2014-05-29 19:21:39  [ main:287 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@a3e87a0 was created. Current flow:
+  prepare-send [MessageSenderInterceptor]
+  write [BodyWriter]
+
+2014-05-29 19:21:39  [ main:288 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@3c066c23
+2014-05-29 19:21:39  [ main:294 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor$MessageSenderEndingInterceptor@312ad978 to phase prepare-send-ending
+2014-05-29 19:21:39  [ main:294 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@a3e87a0 was modified. Current flow:
+  prepare-send [MessageSenderInterceptor]
+  write [BodyWriter]
+  prepare-send-ending [MessageSenderEndingInterceptor]
+
+2014-05-29 19:21:39  [ main:294 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.jaxrs.client.WebClient$BodyWriter@486ba2ed
+2014-05-29 19:21:40  [ main:460 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.interceptor.MessageSenderInterceptor$MessageSenderEndingInterceptor@312ad978
+2014-05-29 19:21:40  [ main:461 ] - [ DEBUG ]  Accept: application/json
+2014-05-29 19:21:40  [ main:462 ] - [ DEBUG ]  Authorization: Basic Z2NrczpnY2tz
+2014-05-29 19:21:40  [ main:463 ] - [ DEBUG ]  Content-Type: application/json
+2014-05-29 19:21:40  [ main:464 ] - [ DEBUG ]  No Trust Decider for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'. An afirmative Trust Decision is assumed.
+2014-05-29 19:21:40  [ main:471 ] - [ DEBUG ]  Sending POST Message with Headers to http://127.0.0.1:8080/gcks.video/api/v1/video/medias Conduit :{http://127.0.0.1:8080}WebClient.http-conduit
+
+2014-05-29 19:21:40  [ main:728 ] - [ DEBUG ]  Response Code: 200 Conduit: {http://127.0.0.1:8080}WebClient.http-conduit
+2014-05-29 19:21:40  [ main:728 ] - [ DEBUG ]  Content length: 4
+2014-05-29 19:21:40  [ main:729 ] - [ DEBUG ]  Header fields: 
+    null: [HTTP/1.1 200 OK]
+    Date: [Thu, 29 May 2014 11:21:40 GMT]
+    Content-Length: [4]
+    Content-Type: [application/json]
+    Server: [Apache-Coyote/1.1]
+
+2014-05-29 19:21:40  [ main:730 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@682143e4 was created. Current flow:
+
+2014-05-29 19:24:02  [ main:269 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@3c066c23 to phase prepare-send
+2014-05-29 19:24:02  [ main:271 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@3c066c23 to phase prepare-send
+2014-05-29 19:24:02  [ main:286 ] - [ DEBUG ]  Conduit '{http://127.0.0.1:8080}WebClient.http-conduit' has been (re)configured for plain http.
+2014-05-29 19:24:02  [ main:287 ] - [ DEBUG ]  No Trust Decider configured for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'
+2014-05-29 19:24:02  [ main:287 ] - [ DEBUG ]  No Auth Supplier configured for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'
+2014-05-29 19:24:02  [ main:287 ] - [ DEBUG ]  Conduit '{http://127.0.0.1:8080}WebClient.http-conduit' has been configured for plain http.
+2014-05-29 19:24:02  [ main:287 ] - [ DEBUG ]  registering incoming observer: org.apache.cxf.jaxrs.client.ClientMessageObserver@2628eb36
+2014-05-29 19:24:02  [ main:288 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.jaxrs.client.WebClient$BodyWriter@486ba2ed to phase write
+2014-05-29 19:24:02  [ main:289 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@a3e87a0 was created. Current flow:
+  prepare-send [MessageSenderInterceptor]
+  write [BodyWriter]
+
+2014-05-29 19:24:02  [ main:289 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@3c066c23
+2014-05-29 19:24:02  [ main:295 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor$MessageSenderEndingInterceptor@312ad978 to phase prepare-send-ending
+2014-05-29 19:24:02  [ main:295 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@a3e87a0 was modified. Current flow:
+  prepare-send [MessageSenderInterceptor]
+  write [BodyWriter]
+  prepare-send-ending [MessageSenderEndingInterceptor]
+
+2014-05-29 19:24:02  [ main:295 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.jaxrs.client.WebClient$BodyWriter@486ba2ed
+2014-05-29 19:24:02  [ main:457 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.interceptor.MessageSenderInterceptor$MessageSenderEndingInterceptor@312ad978
+2014-05-29 19:24:02  [ main:459 ] - [ DEBUG ]  Accept: application/json
+2014-05-29 19:24:02  [ main:459 ] - [ DEBUG ]  Authorization: Basic Z2NrczpnY2tz
+2014-05-29 19:24:02  [ main:460 ] - [ DEBUG ]  Content-Type: application/json
+2014-05-29 19:24:02  [ main:462 ] - [ DEBUG ]  No Trust Decider for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'. An afirmative Trust Decision is assumed.
+2014-05-29 19:24:02  [ main:469 ] - [ DEBUG ]  Sending POST Message with Headers to http://127.0.0.1:8080/gcks.video/api/v1/video/medias Conduit :{http://127.0.0.1:8080}WebClient.http-conduit
+
+2014-05-29 19:24:02  [ main:719 ] - [ DEBUG ]  Response Code: 200 Conduit: {http://127.0.0.1:8080}WebClient.http-conduit
+2014-05-29 19:24:02  [ main:719 ] - [ DEBUG ]  Content length: 4
+2014-05-29 19:24:02  [ main:720 ] - [ DEBUG ]  Header fields: 
+    null: [HTTP/1.1 200 OK]
+    Date: [Thu, 29 May 2014 11:24:02 GMT]
+    Content-Length: [4]
+    Content-Type: [application/json]
+    Server: [Apache-Coyote/1.1]
+
+2014-05-29 19:24:02  [ main:721 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@682143e4 was created. Current flow:
+
+2014-05-29 19:25:06  [ main:260 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@13b2fed8 to phase prepare-send
+2014-05-29 19:25:06  [ main:262 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@13b2fed8 to phase prepare-send
+2014-05-29 19:25:06  [ main:278 ] - [ DEBUG ]  Conduit '{http://127.0.0.1:8080}WebClient.http-conduit' has been (re)configured for plain http.
+2014-05-29 19:25:06  [ main:278 ] - [ DEBUG ]  No Trust Decider configured for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'
+2014-05-29 19:25:06  [ main:278 ] - [ DEBUG ]  No Auth Supplier configured for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'
+2014-05-29 19:25:06  [ main:279 ] - [ DEBUG ]  Conduit '{http://127.0.0.1:8080}WebClient.http-conduit' has been configured for plain http.
+2014-05-29 19:25:06  [ main:279 ] - [ DEBUG ]  registering incoming observer: org.apache.cxf.jaxrs.client.ClientMessageObserver@35f8a538
+2014-05-29 19:25:06  [ main:279 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.jaxrs.client.WebClient$BodyWriter@1be2bcc8 to phase write
+2014-05-29 19:25:06  [ main:280 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@30b0e3d6 was created. Current flow:
+  prepare-send [MessageSenderInterceptor]
+  write [BodyWriter]
+
+2014-05-29 19:25:06  [ main:280 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@13b2fed8
+2014-05-29 19:25:06  [ main:286 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor$MessageSenderEndingInterceptor@4f638f6e to phase prepare-send-ending
+2014-05-29 19:25:06  [ main:286 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@30b0e3d6 was modified. Current flow:
+  prepare-send [MessageSenderInterceptor]
+  write [BodyWriter]
+  prepare-send-ending [MessageSenderEndingInterceptor]
+
+2014-05-29 19:25:06  [ main:286 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.jaxrs.client.WebClient$BodyWriter@1be2bcc8
+2014-05-29 19:25:06  [ main:449 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.interceptor.MessageSenderInterceptor$MessageSenderEndingInterceptor@4f638f6e
+2014-05-29 19:25:06  [ main:450 ] - [ DEBUG ]  Accept: application/json
+2014-05-29 19:25:06  [ main:451 ] - [ DEBUG ]  Authorization: Basic Z2NrczpnY2tz
+2014-05-29 19:25:06  [ main:452 ] - [ DEBUG ]  Content-Type: application/json
+2014-05-29 19:25:06  [ main:453 ] - [ DEBUG ]  No Trust Decider for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'. An afirmative Trust Decision is assumed.
+2014-05-29 19:25:06  [ main:460 ] - [ DEBUG ]  Sending POST Message with Headers to http://127.0.0.1:8080/gcks.video/api/v1/video/medias Conduit :{http://127.0.0.1:8080}WebClient.http-conduit
+
+2014-05-29 19:25:06  [ main:739 ] - [ DEBUG ]  Response Code: 200 Conduit: {http://127.0.0.1:8080}WebClient.http-conduit
+2014-05-29 19:25:06  [ main:740 ] - [ DEBUG ]  Content length: 4
+2014-05-29 19:25:06  [ main:740 ] - [ DEBUG ]  Header fields: 
+    null: [HTTP/1.1 200 OK]
+    Date: [Thu, 29 May 2014 11:25:06 GMT]
+    Content-Length: [4]
+    Content-Type: [application/json]
+    Server: [Apache-Coyote/1.1]
+
+2014-05-29 19:25:06  [ main:741 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@1efd01b1 was created. Current flow:
+
+2014-05-29 19:25:54  [ main:264 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@51e3b325 to phase prepare-send
+2014-05-29 19:25:54  [ main:266 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@51e3b325 to phase prepare-send
+2014-05-29 19:25:54  [ main:282 ] - [ DEBUG ]  Conduit '{http://127.0.0.1:8080}WebClient.http-conduit' has been (re)configured for plain http.
+2014-05-29 19:25:54  [ main:282 ] - [ DEBUG ]  No Trust Decider configured for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'
+2014-05-29 19:25:54  [ main:282 ] - [ DEBUG ]  No Auth Supplier configured for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'
+2014-05-29 19:25:54  [ main:283 ] - [ DEBUG ]  Conduit '{http://127.0.0.1:8080}WebClient.http-conduit' has been configured for plain http.
+2014-05-29 19:25:54  [ main:283 ] - [ DEBUG ]  registering incoming observer: org.apache.cxf.jaxrs.client.ClientMessageObserver@4cfdbb9f
+2014-05-29 19:25:54  [ main:283 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.jaxrs.client.WebClient$BodyWriter@57271b36 to phase write
+2014-05-29 19:25:54  [ main:284 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@21276f0 was created. Current flow:
+  prepare-send [MessageSenderInterceptor]
+  write [BodyWriter]
+
+2014-05-29 19:25:54  [ main:284 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@51e3b325
+2014-05-29 19:25:54  [ main:290 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor$MessageSenderEndingInterceptor@2c6749fe to phase prepare-send-ending
+2014-05-29 19:25:54  [ main:290 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@21276f0 was modified. Current flow:
+  prepare-send [MessageSenderInterceptor]
+  write [BodyWriter]
+  prepare-send-ending [MessageSenderEndingInterceptor]
+
+2014-05-29 19:25:54  [ main:290 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.jaxrs.client.WebClient$BodyWriter@57271b36
+2014-05-29 19:25:54  [ main:453 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.interceptor.MessageSenderInterceptor$MessageSenderEndingInterceptor@2c6749fe
+2014-05-29 19:25:54  [ main:454 ] - [ DEBUG ]  Accept: application/json
+2014-05-29 19:25:54  [ main:454 ] - [ DEBUG ]  Authorization: Basic Z2NrczpnY2tz
+2014-05-29 19:25:54  [ main:456 ] - [ DEBUG ]  Content-Type: application/json
+2014-05-29 19:25:54  [ main:457 ] - [ DEBUG ]  No Trust Decider for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'. An afirmative Trust Decision is assumed.
+2014-05-29 19:25:54  [ main:464 ] - [ DEBUG ]  Sending POST Message with Headers to http://127.0.0.1:8080/gcks.video/api/v1/video/medias Conduit :{http://127.0.0.1:8080}WebClient.http-conduit
+
+2014-05-29 19:25:55  [ main:705 ] - [ DEBUG ]  Response Code: 200 Conduit: {http://127.0.0.1:8080}WebClient.http-conduit
+2014-05-29 19:25:55  [ main:706 ] - [ DEBUG ]  Content length: 4
+2014-05-29 19:25:55  [ main:706 ] - [ DEBUG ]  Header fields: 
+    null: [HTTP/1.1 200 OK]
+    Date: [Thu, 29 May 2014 11:25:55 GMT]
+    Content-Length: [4]
+    Content-Type: [application/json]
+    Server: [Apache-Coyote/1.1]
+
+2014-05-29 19:25:55  [ main:707 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@c947b27 was created. Current flow:
+
+2014-05-29 19:27:04  [ main:267 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@4c792102 to phase prepare-send
+2014-05-29 19:27:04  [ main:269 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@4c792102 to phase prepare-send
+2014-05-29 19:27:04  [ main:285 ] - [ DEBUG ]  Conduit '{http://127.0.0.1:8080}WebClient.http-conduit' has been (re)configured for plain http.
+2014-05-29 19:27:04  [ main:285 ] - [ DEBUG ]  No Trust Decider configured for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'
+2014-05-29 19:27:04  [ main:285 ] - [ DEBUG ]  No Auth Supplier configured for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'
+2014-05-29 19:27:04  [ main:285 ] - [ DEBUG ]  Conduit '{http://127.0.0.1:8080}WebClient.http-conduit' has been configured for plain http.
+2014-05-29 19:27:04  [ main:286 ] - [ DEBUG ]  registering incoming observer: org.apache.cxf.jaxrs.client.ClientMessageObserver@57271b36
+2014-05-29 19:27:04  [ main:286 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.jaxrs.client.WebClient$BodyWriter@42d7fcc5 to phase write
+2014-05-29 19:27:04  [ main:287 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@2d3e0f93 was created. Current flow:
+  prepare-send [MessageSenderInterceptor]
+  write [BodyWriter]
+
+2014-05-29 19:27:04  [ main:287 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@4c792102
+2014-05-29 19:27:04  [ main:293 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor$MessageSenderEndingInterceptor@115da77a to phase prepare-send-ending
+2014-05-29 19:27:04  [ main:293 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@2d3e0f93 was modified. Current flow:
+  prepare-send [MessageSenderInterceptor]
+  write [BodyWriter]
+  prepare-send-ending [MessageSenderEndingInterceptor]
+
+2014-05-29 19:27:04  [ main:293 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.jaxrs.client.WebClient$BodyWriter@42d7fcc5
+2014-05-29 19:27:04  [ main:454 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.interceptor.MessageSenderInterceptor$MessageSenderEndingInterceptor@115da77a
+2014-05-29 19:27:04  [ main:455 ] - [ DEBUG ]  Accept: application/json
+2014-05-29 19:27:04  [ main:455 ] - [ DEBUG ]  Authorization: Basic Z2NrczpnY2tz
+2014-05-29 19:27:04  [ main:457 ] - [ DEBUG ]  Content-Type: application/json
+2014-05-29 19:27:04  [ main:458 ] - [ DEBUG ]  No Trust Decider for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'. An afirmative Trust Decision is assumed.
+2014-05-29 19:27:04  [ main:465 ] - [ DEBUG ]  Sending POST Message with Headers to http://127.0.0.1:8080/gcks.video/api/v1/video/medias Conduit :{http://127.0.0.1:8080}WebClient.http-conduit
+
+2014-05-29 19:27:04  [ main:776 ] - [ DEBUG ]  Response Code: 200 Conduit: {http://127.0.0.1:8080}WebClient.http-conduit
+2014-05-29 19:27:04  [ main:776 ] - [ DEBUG ]  Content length: 4
+2014-05-29 19:27:04  [ main:777 ] - [ DEBUG ]  Header fields: 
+    null: [HTTP/1.1 200 OK]
+    Date: [Thu, 29 May 2014 11:27:04 GMT]
+    Content-Length: [4]
+    Content-Type: [application/json]
+    Server: [Apache-Coyote/1.1]
+
+2014-05-29 19:27:04  [ main:778 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@747a1b5b was created. Current flow:
+
+2014-05-29 19:29:01  [ main:291 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@e9cad1d to phase prepare-send
+2014-05-29 19:29:01  [ main:293 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@e9cad1d to phase prepare-send
+2014-05-29 19:29:01  [ main:309 ] - [ DEBUG ]  Conduit '{http://127.0.0.1:8080}WebClient.http-conduit' has been (re)configured for plain http.
+2014-05-29 19:29:01  [ main:309 ] - [ DEBUG ]  No Trust Decider configured for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'
+2014-05-29 19:29:01  [ main:309 ] - [ DEBUG ]  No Auth Supplier configured for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'
+2014-05-29 19:29:01  [ main:309 ] - [ DEBUG ]  Conduit '{http://127.0.0.1:8080}WebClient.http-conduit' has been configured for plain http.
+2014-05-29 19:29:01  [ main:310 ] - [ DEBUG ]  registering incoming observer: org.apache.cxf.jaxrs.client.ClientMessageObserver@18b0af83
+2014-05-29 19:29:01  [ main:310 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.jaxrs.client.WebClient$BodyWriter@2628eb36 to phase write
+2014-05-29 19:29:01  [ main:311 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@1be2bcc8 was created. Current flow:
+  prepare-send [MessageSenderInterceptor]
+  write [BodyWriter]
+
+2014-05-29 19:29:01  [ main:311 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@e9cad1d
+2014-05-29 19:29:01  [ main:317 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor$MessageSenderEndingInterceptor@6f9e305d to phase prepare-send-ending
+2014-05-29 19:29:01  [ main:317 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@1be2bcc8 was modified. Current flow:
+  prepare-send [MessageSenderInterceptor]
+  write [BodyWriter]
+  prepare-send-ending [MessageSenderEndingInterceptor]
+
+2014-05-29 19:29:01  [ main:317 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.jaxrs.client.WebClient$BodyWriter@2628eb36
+2014-05-29 19:29:01  [ main:479 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.interceptor.MessageSenderInterceptor$MessageSenderEndingInterceptor@6f9e305d
+2014-05-29 19:29:01  [ main:480 ] - [ DEBUG ]  Accept: application/json
+2014-05-29 19:29:01  [ main:481 ] - [ DEBUG ]  Authorization: Basic Z2NrczpnY2tz
+2014-05-29 19:29:01  [ main:482 ] - [ DEBUG ]  Content-Type: application/json
+2014-05-29 19:29:01  [ main:483 ] - [ DEBUG ]  No Trust Decider for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'. An afirmative Trust Decision is assumed.
+2014-05-29 19:29:01  [ main:490 ] - [ DEBUG ]  Sending POST Message with Headers to http://127.0.0.1:8080/gcks.video/api/v1/video/medias Conduit :{http://127.0.0.1:8080}WebClient.http-conduit
+
+2014-05-29 19:29:02  [ main:751 ] - [ DEBUG ]  Response Code: 200 Conduit: {http://127.0.0.1:8080}WebClient.http-conduit
+2014-05-29 19:29:02  [ main:752 ] - [ DEBUG ]  Content length: 4
+2014-05-29 19:29:02  [ main:752 ] - [ DEBUG ]  Header fields: 
+    null: [HTTP/1.1 200 OK]
+    Date: [Thu, 29 May 2014 11:29:02 GMT]
+    Content-Length: [4]
+    Content-Type: [application/json]
+    Server: [Apache-Coyote/1.1]
+
+2014-05-29 19:29:02  [ main:753 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@3e6b6f6b was created. Current flow:
+
+2014-05-29 19:33:32  [ main:263 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@4c792102 to phase prepare-send
+2014-05-29 19:33:32  [ main:265 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@4c792102 to phase prepare-send
+2014-05-29 19:33:32  [ main:280 ] - [ DEBUG ]  Conduit '{http://127.0.0.1:8080}WebClient.http-conduit' has been (re)configured for plain http.
+2014-05-29 19:33:32  [ main:281 ] - [ DEBUG ]  No Trust Decider configured for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'
+2014-05-29 19:33:32  [ main:281 ] - [ DEBUG ]  No Auth Supplier configured for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'
+2014-05-29 19:33:32  [ main:281 ] - [ DEBUG ]  Conduit '{http://127.0.0.1:8080}WebClient.http-conduit' has been configured for plain http.
+2014-05-29 19:33:32  [ main:281 ] - [ DEBUG ]  registering incoming observer: org.apache.cxf.jaxrs.client.ClientMessageObserver@57271b36
+2014-05-29 19:33:32  [ main:282 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.jaxrs.client.WebClient$BodyWriter@42d7fcc5 to phase write
+2014-05-29 19:33:32  [ main:283 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@2d3e0f93 was created. Current flow:
+  prepare-send [MessageSenderInterceptor]
+  write [BodyWriter]
+
+2014-05-29 19:33:32  [ main:283 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@4c792102
+2014-05-29 19:33:32  [ main:289 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor$MessageSenderEndingInterceptor@115da77a to phase prepare-send-ending
+2014-05-29 19:33:32  [ main:289 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@2d3e0f93 was modified. Current flow:
+  prepare-send [MessageSenderInterceptor]
+  write [BodyWriter]
+  prepare-send-ending [MessageSenderEndingInterceptor]
+
+2014-05-29 19:33:32  [ main:289 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.jaxrs.client.WebClient$BodyWriter@42d7fcc5
+2014-05-29 19:33:32  [ main:452 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.interceptor.MessageSenderInterceptor$MessageSenderEndingInterceptor@115da77a
+2014-05-29 19:33:32  [ main:453 ] - [ DEBUG ]  Accept: application/json
+2014-05-29 19:33:32  [ main:453 ] - [ DEBUG ]  Authorization: Basic Z2NrczpnY2tzMQ==
+2014-05-29 19:33:32  [ main:455 ] - [ DEBUG ]  Content-Type: application/json
+2014-05-29 19:33:32  [ main:456 ] - [ DEBUG ]  No Trust Decider for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'. An afirmative Trust Decision is assumed.
+2014-05-29 19:33:32  [ main:463 ] - [ DEBUG ]  Sending POST Message with Headers to http://127.0.0.1:8080/gcks.video/api/v1/video/medias Conduit :{http://127.0.0.1:8080}WebClient.http-conduit
+
+2014-05-29 19:33:32  [ main:561 ] - [ DEBUG ]  Response Code: 401 Conduit: {http://127.0.0.1:8080}WebClient.http-conduit
+2014-05-29 19:33:32  [ main:562 ] - [ DEBUG ]  Content length: 0
+2014-05-29 19:33:32  [ main:562 ] - [ DEBUG ]  Header fields: 
+    null: [HTTP/1.1 401 Unauthorized]
+    Date: [Thu, 29 May 2014 11:33:32 GMT]
+    Content-Length: [0]
+    Server: [Apache-Coyote/1.1]
+
+2014-05-29 19:33:32  [ main:563 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@36be4fd5 was created. Current flow:
+
+2014-05-29 19:33:56  [ main:262 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@13b2fed8 to phase prepare-send
+2014-05-29 19:33:56  [ main:264 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@13b2fed8 to phase prepare-send
+2014-05-29 19:33:56  [ main:279 ] - [ DEBUG ]  Conduit '{http://127.0.0.1:8080}WebClient.http-conduit' has been (re)configured for plain http.
+2014-05-29 19:33:56  [ main:280 ] - [ DEBUG ]  No Trust Decider configured for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'
+2014-05-29 19:33:56  [ main:280 ] - [ DEBUG ]  No Auth Supplier configured for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'
+2014-05-29 19:33:56  [ main:280 ] - [ DEBUG ]  Conduit '{http://127.0.0.1:8080}WebClient.http-conduit' has been configured for plain http.
+2014-05-29 19:33:56  [ main:280 ] - [ DEBUG ]  registering incoming observer: org.apache.cxf.jaxrs.client.ClientMessageObserver@35f8a538
+2014-05-29 19:33:56  [ main:281 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.jaxrs.client.WebClient$BodyWriter@1be2bcc8 to phase write
+2014-05-29 19:33:56  [ main:282 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@30b0e3d6 was created. Current flow:
+  prepare-send [MessageSenderInterceptor]
+  write [BodyWriter]
+
+2014-05-29 19:33:56  [ main:282 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.interceptor.MessageSenderInterceptor@13b2fed8
+2014-05-29 19:33:56  [ main:288 ] - [ DEBUG ]  Adding interceptor org.apache.cxf.interceptor.MessageSenderInterceptor$MessageSenderEndingInterceptor@4f638f6e to phase prepare-send-ending
+2014-05-29 19:33:56  [ main:288 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@30b0e3d6 was modified. Current flow:
+  prepare-send [MessageSenderInterceptor]
+  write [BodyWriter]
+  prepare-send-ending [MessageSenderEndingInterceptor]
+
+2014-05-29 19:33:56  [ main:288 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.jaxrs.client.WebClient$BodyWriter@1be2bcc8
+2014-05-29 19:33:56  [ main:449 ] - [ DEBUG ]  Invoking handleMessage on interceptor org.apache.cxf.interceptor.MessageSenderInterceptor$MessageSenderEndingInterceptor@4f638f6e
+2014-05-29 19:33:56  [ main:451 ] - [ DEBUG ]  Accept: application/json
+2014-05-29 19:33:56  [ main:451 ] - [ DEBUG ]  Authorization: Basic Z2NrczpnY2tzMQ==
+2014-05-29 19:33:56  [ main:453 ] - [ DEBUG ]  Content-Type: application/json
+2014-05-29 19:33:56  [ main:454 ] - [ DEBUG ]  No Trust Decider for Conduit '{http://127.0.0.1:8080}WebClient.http-conduit'. An afirmative Trust Decision is assumed.
+2014-05-29 19:33:56  [ main:461 ] - [ DEBUG ]  Sending POST Message with Headers to http://127.0.0.1:8080/gcks.video/api/v1/video/medias Conduit :{http://127.0.0.1:8080}WebClient.http-conduit
+
+2014-05-29 19:33:56  [ main:480 ] - [ DEBUG ]  Response Code: 401 Conduit: {http://127.0.0.1:8080}WebClient.http-conduit
+2014-05-29 19:33:56  [ main:481 ] - [ DEBUG ]  Content length: 0
+2014-05-29 19:33:56  [ main:481 ] - [ DEBUG ]  Header fields: 
+    null: [HTTP/1.1 401 Unauthorized]
+    Date: [Thu, 29 May 2014 11:33:56 GMT]
+    Content-Length: [0]
+    Server: [Apache-Coyote/1.1]
+
+2014-05-29 19:33:56  [ main:482 ] - [ DEBUG ]  Chain org.apache.cxf.phase.PhaseInterceptorChain@6128b200 was created. Current flow:
+

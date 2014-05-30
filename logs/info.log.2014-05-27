@@ -1,0 +1,34 @@
+2014-05-27 18:55:52  [ main:366 ] - [ ERROR ]  .No message body writer has been found for class : class net.sf.json.JSONObject, ContentType : */*.
+2014-05-27 18:55:52  [ main:368 ] - [ WARN ]  Interceptor for {http://127.0.0.1:8080}WebClient has thrown exception, unwinding now
+org.apache.cxf.interceptor.Fault: .No message body writer has been found for class : class net.sf.json.JSONObject, ContentType : */*.
+	at org.apache.cxf.jaxrs.client.WebClient$BodyWriter.handleMessage(WebClient.java:939)
+	at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:263)
+	at org.apache.cxf.jaxrs.client.WebClient.doChainedInvocation(WebClient.java:840)
+	at org.apache.cxf.jaxrs.client.WebClient.doInvoke(WebClient.java:788)
+	at org.apache.cxf.jaxrs.client.WebClient.doInvoke(WebClient.java:749)
+	at org.apache.cxf.jaxrs.client.WebClient.invoke(WebClient.java:283)
+	at org.apache.cxf.jaxrs.client.WebClient.post(WebClient.java:292)
+	at pku.edu.cn.monitor.restclient.Client.restPost(Client.java:19)
+	at pku.edu.cn.monitor.restclient.Client.main(Client.java:30)
+Caused by: org.apache.cxf.jaxrs.client.ClientWebApplicationException: .No message body writer has been found for class : class net.sf.json.JSONObject, ContentType : */*.
+	at org.apache.cxf.jaxrs.client.AbstractClient.reportMessageHandlerProblem(AbstractClient.java:649)
+	at org.apache.cxf.jaxrs.client.AbstractClient.writeBody(AbstractClient.java:402)
+	at org.apache.cxf.jaxrs.client.WebClient$BodyWriter.handleMessage(WebClient.java:931)
+	... 8 more
+2014-05-27 18:56:28  [ main:340 ] - [ ERROR ]  .No message body writer has been found for class : class net.sf.json.JSONObject, ContentType : application/json.
+2014-05-27 18:56:28  [ main:342 ] - [ WARN ]  Interceptor for {http://127.0.0.1:8080}WebClient has thrown exception, unwinding now
+org.apache.cxf.interceptor.Fault: .No message body writer has been found for class : class net.sf.json.JSONObject, ContentType : application/json.
+	at org.apache.cxf.jaxrs.client.WebClient$BodyWriter.handleMessage(WebClient.java:939)
+	at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:263)
+	at org.apache.cxf.jaxrs.client.WebClient.doChainedInvocation(WebClient.java:840)
+	at org.apache.cxf.jaxrs.client.WebClient.doInvoke(WebClient.java:788)
+	at org.apache.cxf.jaxrs.client.WebClient.doInvoke(WebClient.java:749)
+	at org.apache.cxf.jaxrs.client.WebClient.invoke(WebClient.java:283)
+	at org.apache.cxf.jaxrs.client.WebClient.post(WebClient.java:292)
+	at pku.edu.cn.monitor.restclient.Client.restPost(Client.java:19)
+	at pku.edu.cn.monitor.restclient.Client.main(Client.java:30)
+Caused by: org.apache.cxf.jaxrs.client.ClientWebApplicationException: .No message body writer has been found for class : class net.sf.json.JSONObject, ContentType : application/json.
+	at org.apache.cxf.jaxrs.client.AbstractClient.reportMessageHandlerProblem(AbstractClient.java:649)
+	at org.apache.cxf.jaxrs.client.AbstractClient.writeBody(AbstractClient.java:402)
+	at org.apache.cxf.jaxrs.client.WebClient$BodyWriter.handleMessage(WebClient.java:931)
+	... 8 more

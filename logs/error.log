@@ -1,0 +1,5 @@
+2014-05-28 09:20:15  [ main:348 ] - [ ERROR ]  .No message body writer has been found for class : class pku.edu.cn.monitor.restclient.MetadataNode, ContentType : application/json.
+2014-05-28 09:27:51  [ main:339 ] - [ ERROR ]  .No message body writer has been found for class : class pku.edu.cn.monitor.restclient.MetadataNode, ContentType : application/json.
+2014-05-28 09:47:47  [ main:342 ] - [ ERROR ]  .No message body writer has been found for class : class pku.edu.cn.monitor.restclient.MetadataNode, ContentType : application/json.
+2014-05-28 09:48:55  [ main:347 ] - [ ERROR ]  .No message body writer has been found for class : class pku.edu.cn.monitor.restclient.MetadataNode, ContentType : application/json.
+2014-05-28 10:17:20  [ main:300 ] - [ ERROR ]  .No message body writer has been found for class : class pku.edu.cn.monitor.restclient.MetadataNode, ContentType : application/json.

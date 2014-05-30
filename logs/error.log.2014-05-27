@@ -1,0 +1,2 @@
+2014-05-27 18:55:52  [ main:366 ] - [ ERROR ]  .No message body writer has been found for class : class net.sf.json.JSONObject, ContentType : */*.
+2014-05-27 18:56:28  [ main:340 ] - [ ERROR ]  .No message body writer has been found for class : class net.sf.json.JSONObject, ContentType : application/json.
